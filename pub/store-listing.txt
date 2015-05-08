@@ -1,0 +1,52 @@
+Title: Winnipeg Transit Bus - MonTra…
+----------
+Short description:
+Winnipeg Transit buses for MonTransit BETA.
+Schedule. Real-Time. News.
+----------
+What's new in this version?:
+Schedule from April 12, 2015 to June 20, 2015.
+Real-time stop schedule from api.winnipegtransit.com.
+Tweets from @winnipegtransit & @transitalerts.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+----------
+Full description:
+This app adds Winnipeg Transit busses information to MonTransit BETA.
+
+This app provides the schedule (offline & real-time) as well as news and service alerts from @winnipegtransit and @transitalerts on Twitter.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+Winnipeg Transit busses serve Winnipeg in Manitoba, Canada.
+
+Once this application is installed, the MonTransit BETA app will display busses information (schedule...).
+
+This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from the GTFS file provided by Winnipeg Transit.
+http://winnipegtransit.com/en/schedules-maps-tools/transittools/open-data/
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-winnipeg-transit-bus-android
+
+This app is not related with Winnipeg Transit.
+
+Permissions:
+- Other: required to read real-time bus stop schedules from the Winnipeg Transit Open Data Web Service API and to read news from Twitter
+----------
+Application type: Applications
+----------
+Category: Transportation
+----------
+Content rating: Low Maturity
+----------
+Website: https://github.com/mtransitapps/ca-winnipeg-transit-bus-android
+----------
+Email: mtransit.apps+GooglePlay@gmail.com
+----------
+Phone: 
+----------
+Privacy Policy:
