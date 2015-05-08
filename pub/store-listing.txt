@@ -12,15 +12,15 @@ Tweets from @winnipegtransit & @transitalerts.
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This app adds Winnipeg Transit busses information to MonTransit BETA.
+This app adds Winnipeg Transit buses information to MonTransit BETA.
 
 This app provides the schedule (offline & real-time) as well as news and service alerts from @winnipegtransit and @transitalerts on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
-Winnipeg Transit busses serve Winnipeg in Manitoba, Canada.
+Winnipeg Transit buses serve Winnipeg in Manitoba, Canada.
 
-Once this application is installed, the MonTransit BETA app will display busses information (schedule...).
+Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
 
 This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
