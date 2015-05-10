@@ -82,6 +82,12 @@
             <meta-data
                 android:name="@string/status_provider_target"
                 android:value="@string/winnipeg_transit_status_for_poi_authority" />
+            <meta-data
+                android:name="@string/news_provider"
+                android:value="@string/news_provider" />
+            <meta-data
+                android:name="@string/news_provider_target"
+                android:value="@string/winnipeg_transit_news_target_for_poi_authority" />
         </provider>
         <!-- TWITTER NEWS PROVIDER -->
         <provider
