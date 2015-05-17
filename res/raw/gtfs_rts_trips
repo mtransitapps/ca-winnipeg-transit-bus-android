@@ -7,7 +7,7 @@
 1101,0,'City Hall',11
 1100,0,'Westwood',11
 1201,0,'City Hall',12
-1200,0,'Polo Park',12
+1200,0,'Polo Pk',12
 1401,0,'Ferry Rd',14
 1400,0,'South St Vital',14
 1501,0,'Mountain',15
@@ -19,8 +19,8 @@
 1801,0,'Corydon',18
 1800,0,'North Main',18
 1900,0,'Red River College',19
-1901,0,'Windsor Park',19
-2001,0,'Airport/Polo Park',20
+1901,0,'Windsor Pk',19
+2001,0,'Airport / Polo Pk',20
 2000,0,'Watt',20
 2101,0,'Downtown',21
 2100,0,'Portage West',21
@@ -31,9 +31,9 @@
 2501,0,'City Hall',25
 2500,0,'Unicity',25
 2601,0,'City Hall',26
-2600,0,'Polo Park',26
+2600,0,'Polo Pk',26
 2801,0,'City Hall',28
-2800,0,'Omands Creek / Inkster',28
+2800,0,'Omands Crk / Inkster',28
 2900,0,'City Hall / Windermere',29
 2901,0,'Logan',29
 3001,0,'Downtown',30
@@ -99,7 +99,7 @@
 6501,0,'Downtown',65
 6500,0,'Westdale',65
 6601,0,'Downtown',66
-6600,0,'Unicity / Polo Park',66
+6600,0,'Unicity / Polo Pk',66
 6701,0,'City Hall',67
 6700,0,'Westdale',67
 6801,0,'Downtown',68
@@ -113,14 +113,14 @@
 7601,0,'St.Vital Ctr',76
 7600,0,'U Of Manitoba',76
 7701,0,'Kildonan Pl',77
-7700,0,'Polo Park',77
+7700,0,'Polo Pk',77
 7801,0,'Polo Pk',78
 7800,0,'U Of Manitoba',78
-7901,0,'Polo Park',79
+7901,0,'Polo Pk',79
 7900,0,'Westdale',79
 8201,0,'Grace Hospital',82
 8200,0,'Unicity',82
-8301,0,'Strauss & Murray Park',83
+8301,0,'Strauss & Murray Pk',83
 8300,0,'Unicity',83
 8400,0,'Whyte Rdg',84
 8401,0,'Windermere & Pembina',84
@@ -128,7 +128,7 @@
 8500,0,'Kildonan Pl',85
 8600,0,'Whyte Rdg',86
 8601,0,'Windermere & Pembina',86
-8701,0,'Crossroads Stn',87
+8701,0,'Crossroads Sta',87
 8700,0,'South Transcona',87
 8801,0,'Cathedral & Main',88
 8800,0,'Fife',88
@@ -138,13 +138,13 @@
 9001,0,'Whellams Ln',90
 9101,0,'Killarney & Pembina',91
 9100,0,'St.Norbert',91
-9201,0,'Crossroads Stn',92
+9201,0,'Crossroads Sta',92
 9200,0,'Lakeside Mdws',92
 9300,0,'South St Vital',93
 9301,0,'St Vital Ctr',93
-9401,0,'Industrial Park',94
+9401,0,'Industrial Pk',94
 9400,0,'Kenaston',94
-9500,0,'Polo Park',95
+9500,0,'Polo Pk',95
 9501,0,'Riverview',95
 9600,0,'Southdale',96
 9601,0,'St Vital Ctr',96
