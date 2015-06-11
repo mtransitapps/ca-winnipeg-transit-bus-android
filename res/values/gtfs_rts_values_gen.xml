@@ -4,9 +4,9 @@
     <bool name="gtfs_rts_schedule_available">true</bool>
     <bool name="gtfs_rts_frequency_available">false</bool>
     <string name="gtfs_rts_timezone">America/Winnipeg</string>
-    <string name="gtfs_rts_area_min_lat">49.74456362867146</string>
-    <string name="gtfs_rts_area_max_lat">49.969473678569834</string>
-    <string name="gtfs_rts_area_min_lng">-97.32299682965768</string>
-    <string name="gtfs_rts_area_max_lng">-96.96269333563113</string>
+    <string name="gtfs_rts_area_min_lat">49.7445636287</string>
+    <string name="gtfs_rts_area_max_lat">49.9694736786</string>
+    <string name="gtfs_rts_area_min_lng">-97.3229968297</string>
+    <string name="gtfs_rts_area_max_lng">-96.9626933356</string>
     <string name="gtfs_rts_color">3256A3</string>
 </resources>
