@@ -5,7 +5,7 @@ Winnipeg Transit buses for MonTransit.
 Schedule. Real-Time. News.
 ----------
 What's new in this version?:
-Schedule from September 5, 2016 to December 17, 2016.
+Schedule from December 18, 2016 to April 8, 2017.
 Real-time stop schedule from api.winnipegtransit.com.
 Tweets from @winnipegtransit & @transitalerts.
 ----------
