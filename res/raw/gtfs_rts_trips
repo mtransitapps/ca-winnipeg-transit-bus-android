@@ -1,4 +1,4 @@
-100,0,'Clockwise',1
+100,0,'The Forks',1
 200,0,'Counter-Clockwise',2
 301,0,'City Hall',3
 300,0,'U Of Winnipeg',3
@@ -42,8 +42,8 @@
 3100,0,'Mdws West / Oak Pt',31
 3201,0,'Downtown',32
 3200,0,'Leila / Riverbend',32
-3301,0,'Garry & Portage',33
-3300,0,'Maples',33
+3301,0,'Downtown',33
+3300,0,'Mapleglen',33
 3401,0,'Downtown',34
 3400,0,'Maples',34
 3500,0,'Amber Trails',35
@@ -126,7 +126,7 @@
 8400,0,'Walmart & Kenaston',84
 8501,0,'Henderson & Whellams',85
 8500,0,'Kildonan Pl',85
-8600,0,'Bridgewater',86
+8600,0,'Bridgwater',86
 8601,0,'Fort Rouge Sta',86
 8701,0,'Crossroads Sta',87
 8700,0,'South Transcona',87
