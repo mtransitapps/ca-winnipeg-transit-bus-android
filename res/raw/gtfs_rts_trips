@@ -12,11 +12,11 @@
 1400,0,'South St Vital',14
 1500,0,'Airport',15
 1501,0,'Inkster Pk',15
-1601,0,'Osborne',16
-1600,0,'Selkirk',16
+1601,0,'St Vital Ctr / Southdale Ctr',16
+1600,0,'Tyndall Pk',16
 1700,0,'Maples',17
 1701,0,'Misericordia',17
-1801,0,'Corydon',18
+1801,0,'Assiniboine Pk',18
 1800,0,'North Main',18
 1900,0,'Red River College',19
 1901,0,'Windsor Pk',19
@@ -33,7 +33,7 @@
 2601,0,'City Hall',26
 2600,0,'Polo Pk',26
 2801,0,'City Hall',28
-2800,0,'Omands Crk / Inkster',28
+2800,0,'Inkster Ind Pk',28
 2900,0,'City Hall / Windermere',29
 2901,0,'Logan',29
 3001,0,'Downtown',30
@@ -43,7 +43,7 @@
 3201,0,'Downtown',32
 3200,0,'Leila / Riverbend',32
 3301,0,'Downtown',33
-3300,0,'Mapleglen',33
+3300,0,'Maples',33
 3401,0,'Downtown',34
 3400,0,'Maples',34
 3500,0,'Amber Trails',35
@@ -105,7 +105,7 @@
 6800,0,'Grosvenor & Renfrew',68
 6801,0,'U Of Winnipeg',68
 7101,0,'Portage',71
-7100,0,'WalMart',71
+7100,0,'WalMart / Templeton',71
 7200,0,'South Pt',72
 7201,0,'U Of Manitoba',72
 7501,0,'Kildonan Pl',75
@@ -124,8 +124,8 @@
 8300,0,'Unicity',83
 8401,0,'Fort Rouge Sta',84
 8400,0,'Walmart & Kenaston',84
-8501,0,'Henderson & Whellams',85
 8500,0,'Kildonan Pl',85
+8501,0,'Whellams Loop',85
 8600,0,'Bridgwater',86
 8601,0,'Fort Rouge Sta',86
 8701,0,'Crossroads Sta',87
