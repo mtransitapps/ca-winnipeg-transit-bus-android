@@ -116,8 +116,8 @@
 8200,0,'Unicity',82
 8301,0,'Murray Pk',83
 8300,0,'Unicity',83
+8501,0,'Henderson & Whellams',85
 8500,0,'Kildonan Pl',85
-8501,0,'Whellams Loop',85
 8701,0,'Crossroads Sta',87
 8700,0,'South Transcona',87
 8801,0,'Cathedral & Main',88
@@ -125,7 +125,7 @@
 8901,0,'Kildonan Pl',89
 8900,0,'North Transcona',89
 9001,0,'Henderson & Whellams',90
-9000,0,'North Transcona',90
+9000,0,'Kildonan Pl',90
 9101,0,'Killarney',91
 9100,0,'St Norbert',91
 9201,0,'Crossroads Sta',92
@@ -159,7 +159,7 @@
 67600,0,'Ctr St',676
 67601,0,'St Vital Ctr',676
 67701,0,'Beaumont Sta',677
-67700,0,'Kenaston Common',677
+67700,0,'Outlet Mall',677
 69000,0,'Kenaston',690
 69001,0,'Seel Sta',690
 69101,0,'Seel Sta',691
