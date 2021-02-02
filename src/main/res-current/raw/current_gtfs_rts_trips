@@ -5,23 +5,23 @@
 1201,0,'City Hall',12
 1200,0,'Polo Pk',12
 1401,0,'Ferry Rd',14
-1400,0,'South St Vital',14
+1400,0,'S St Vital',14
 1500,0,'Airport',15
 1501,0,'Inkster Pk',15
 1601,0,'St Vital Ctr / Southdale Ctr',16
 1600,0,'Tyndall Pk',16
 1700,0,'Maples',17
-1701,0,'Misericordia',17
+1701,0,'Misericordia Health Ctr',17
 1801,0,'Assiniboine Pk',18
-1800,0,'North Main',18
+1800,0,'N Main',18
 1900,0,'Red River College',19
 1901,0,'Windsor Pk',19
-2001,0,'Airport',20
+2001,0,'Airport Term',20
 2000,0,'Watt & Leighton',20
 2101,0,'City Hall',21
-2100,0,'Portage West',21
+2100,0,'Portage W',21
 2201,0,'City Hall',22
-2200,0,'Portage West',22
+2200,0,'Portage W',22
 2301,0,'City Hall',23
 2300,0,'Fort & Assiniboine',23
 2401,0,'City Hall',24
@@ -37,7 +37,7 @@
 3001,0,'Downtown',30
 3000,0,'Inkster Pk',30
 3101,0,'City Hall',31
-3100,0,'Mdws West / Oak Pt',31
+3100,0,'Mdws W / Oak Pt',31
 3201,0,'Downtown',32
 3200,0,'Leila / Riverbend',32
 3301,0,'Downtown',33
@@ -53,7 +53,7 @@
 4000,0,'All Seasons',40
 4001,0,'Balmoral Sta',40
 4101,0,'Balmoral Sta',41
-4100,0,'Glenway / North Kildonan',41
+4100,0,'Glenway / N Kildonan',41
 4201,0,'Balmoral Sta',42
 4200,0,'Lakeside Mdws',42
 4301,0,'Assiniboine',43
@@ -67,14 +67,14 @@
 4701,0,'Balmoral Sta',47
 4700,0,'Transcona',47
 4801,0,'Balmoral Sta',48
-4800,0,'North Transcona',48
+4800,0,'N Transcona',48
 4901,0,'Balmoral Sta',49
-4900,0,'North Transcona',49
+4900,0,'N Transcona',49
 5000,0,'Sage Crk',50
 5001,0,'U Of Winnipeg',50
 5300,0,'Norwood',53
 5301,0,'U Of Winnipeg',53
-5400,0,'South St Vital / St Amant',54
+5400,0,'S St Vital / St Amant',54
 5401,0,'U Of Winnipeg',54
 5500,0,'St Vital Ctr',55
 5501,0,'U Of Winnipeg',55
@@ -83,7 +83,7 @@
 5700,0,'Southdale',57
 5701,0,'U Of Winnipeg',57
 5801,0,'City Hall',58
-5800,0,'South St Vital',58
+5800,0,'S St Vital',58
 5900,0,'Aldgate / Isl Lks',59
 5901,0,'U Of Winnipeg',59
 6001,0,'Downtown',60
@@ -115,13 +115,13 @@
 8501,0,'Henderson & Whellams',85
 8500,0,'Kildonan Pl',85
 8701,0,'Crossroads Sta',87
-8700,0,'South Transcona',87
+8700,0,'S Transcona',87
 8801,0,'Cathedral & Main',88
 8800,0,'Fife',88
 8901,0,'Kildonan Pl',89
-8900,0,'North Transcona',89
+8900,0,'N Transcona',89
 9001,0,'Henderson & Whellams',90
-9000,0,'North Transcona',90
+9000,0,'N Transcona',90
 9101,0,'Killarney',91
 9100,0,'St Norbert',91
 9201,0,'Crossroads Sta',92
@@ -137,7 +137,7 @@
 9801,0,'Grace Hosp',98
 9800,0,'Unicity',98
 63501,0,'Harkness Sta',635
-63500,0,'Misericordia',635
+63500,0,'Misericordia Health Ctr',635
 64101,0,'Beaumont Sta',641
 64100,0,'Kenaston',641
 64200,0,'Fort Garry Ind Pk',642
