@@ -1,2 +1,1 @@
-Winnipeg Transit buses for MonTransit.
-Schedule. Real-Time. News.
+Winnipeg Transit buses for MonTransit. Schedule. Real-Time. News.
