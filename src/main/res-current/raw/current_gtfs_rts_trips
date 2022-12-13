@@ -31,7 +31,7 @@
 2601,0,'City Hall',26
 2600,0,'Polo Pk',26
 2801,0,'City Hall',28
-2800,0,'Inkster Ind Pk Via / Omands Crk',28
+2800,0,'Inkster Ind Pk Via / Oak Pt Hwy',28
 2901,0,'Beaumont Sta',29
 2900,0,'Logan',29
 3001,0,'Downtown',30
@@ -114,6 +114,8 @@
 8300,0,'Unicity',83
 8501,0,'Henderson & Whellams',85
 8500,0,'Kildonan Pl',85
+8601,0,'Crossroads Sta',86
+8600,0,'S Transcona',86
 8701,0,'Crossroads Sta',87
 8700,0,'S Transcona',87
 8801,0,'Cathedral & Main',88
