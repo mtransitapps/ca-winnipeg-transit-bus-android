@@ -25,81 +25,81 @@
 '16796-special',1001,215940,0,'Wolseley',1
 '2',1001,104340,0,'Wolseley',1,7000,,'',1,3100,0,'Wolseley',1,7200,,'',1,3200,0,'Wolseley',1,7200,,'',1,3200,0,'Wolseley',1,7200,,'',1,3200,0,'Wolseley',1,7200,,'',1,7200,0,'Wolseley',1,3200,,'',1,7200,0,'Wolseley',1,3100,,'',1,7100,0,'Wolseley',1,3000,,'',1,7000,0,'Wolseley',1,2900,,'',1,6900,0,'Wolseley',1,2900,,'',1,6900,0,'Wolseley',1,2900,,'',1,2800,0,'Wolseley',1,6700,,'',1
 '4',1001,54140,0,'Wolseley',1,6300,0,'Wolseley',1,2300,,'',1,2310,0,'Wolseley',1,6200,,'',1,2400,0,'Wolseley',1,6550,,'',1,2400,0,'Wolseley',1,2400,,'',1,7550,0,'Wolseley',1,7600,,'',1,3600,0,'Wolseley',1,7500,,'',1,3500,0,'Wolseley',1,7600,,'',1,3600,0,'Wolseley',1,7600,,'',1,7600,0,'Wolseley',1,3600,,'',1,6800,0,'Wolseley',1,2360,,'',1,6300,0,'Wolseley',1,2300,,'',1,2300,0,'Wolseley',1,6300,,'',1,2190,0,'Wolseley',1,2150,,'',1,6490,0,'Wolseley',1,3100,,'',1,7200,,'',1,3100,0,'Wolseley',1,7000,,'',1,3000,0,'Wolseley',1,7000,,'',1,3000,0,'Wolseley',1,7000,,'',1,2900,0,'Wolseley',1,6800,,'',1,2800,0,'Wolseley',1,6700,,'',1,2700,0,'Wolseley',1,6700,,'',1,2900,0,'Wolseley',1
-'1',1100,51450,0,'Polo Pk',1,1600,0,'Polo Pk',1,1600,0,'Polo Pk',1,5500,0,'Polo Pk',1,1500,0,'Polo Pk',1,1500,0,'Polo Pk',1,1500,0,'Polo Pk',1,5500,0,'Polo Pk',1,1500,0,'Polo Pk',1,1500,0,'Polo Pk',1,1400,0,'Polo Pk',1,5500,0,'Polo Pk',1,1500,0,'Polo Pk',1,1560,0,'Polo Pk',1,1300,0,'Polo Pk',1,1100,0,'Polo Pk',1,5100,0,'Polo Pk',1,1100,0,'Polo Pk',1,1100,0,'Polo Pk',1,1100,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,900,0,'Polo Pk',1,4900,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,900,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,4900,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Westwood Via',1,1000,0,'Crestview Via',1,5000,0,'St Charles Via',1,1000,0,'Polo Pk',1,1000,0,'Westwood Via',1,1000,0,'Crestview Via',1,1000,0,'St Charles Via',1,1100,0,'Westwood Via',1,5100,0,'Crestview Via',1,1100,0,'St Charles Via',1,1000,0,'Westwood Via',1,1100,0,'Crestview Via',1,1000,0,'St Charles Via',1,1100,0,'Westwood Via',1,5200,0,'Crestview Via',1,1200,0,'St Charles Via',1,1200,0,'Westwood Via',1,1200,0,'Crestview Via',1,1100,0,'St Charles Via',1,5200,0,'Westwood Via',1,1500,0,'Crestview Via',1,1440,0,'St Charles Via',1,1500,0,'Westwood Via',1,5500,0,'Crestview Via',1,1400,0,'St Charles Via',1,1500,0,'Westwood Via',1,1500,0,'Crestview Via',1,5500,0,'St Charles Via',1,1600,0,'Westwood Via',1,1500,0,'Crestview Via',1,1300,0,'St Charles Via',1,5300,0,'Westwood Via',1,1300,0,'Crestview Via',1,1400,0,'St Charles Via',1,1400,0,'Westwood Via',1,1300,0,'Crestview Via',1,5400,0,'St Charles Via',1,1400,0,'Westwood Via',1,1400,0,'Crestview Via',1
-'16804-special',1100,65750,0,'Crestview Via',1
-'16806-special',1100,90810,0,'Crestview Via',1
-'16808-special',1100,112910,0,'Crestview Via',1
-'16810-special',1100,135210,0,'Crestview Via',1
-'16812-special',1100,161610,0,'Crestview Via',1
-'16814-special',1100,183850,0,'Crestview Via',1
-'16816-special',1100,205450,0,'Crestview Via',1
-'16818-special',1100,230340,0,'Crestview Via',1
-'16825-special',1100,61750,0,'Crestview Via',1
-'16827-special',1100,82550,0,'Crestview Via',1
-'16829-special',1100,104110,0,'Crestview Via',1
-'16831-special',1100,130410,0,'Crestview Via',1
-'16833-special',1100,152810,0,'Crestview Via',1
-'16835-special',1100,175110,0,'Crestview Via',1
-'16837-special',1100,200950,0,'Crestview Via',1
-'16839-special',1100,222140,0,'Crestview Via',1
-'16843-special',1100,244040,0,'Crestview Via',1
-'16849-special',1100,64350,0,'Westwood Via',1
-'16851-special',1100,85410,0,'Westwood Via',1
-'16853-special',1100,111310,0,'Westwood Via',1
-'16855-special',1100,133610,0,'Westwood Via',1
-'16857-special',1100,160010,0,'Westwood Via',1
-'16859-special',1100,182310,0,'Westwood Via',1
-'16861-special',1100,203950,0,'Westwood Via',1
-'16863-special',1100,224940,0,'Westwood Via',1
-'16868-special',1100,60550,0,'Westwood Via',1
-'16870-special',1100,81050,0,'Westwood Via',1
-'16872-special',1100,102510,0,'Westwood Via',1
-'16874-special',1100,124810,0,'Westwood Via',1
-'16876-special',1100,151210,0,'Westwood Via',1
-'16878-special',1100,173610,0,'Westwood Via',1
-'16880-special',1100,195450,0,'Westwood Via',1
-'16882-special',1100,220640,0,'Westwood Via',1
-'16884-special',1100,241540,0,'Westwood Via',1
-'16888-special',1100,74150,0,'Crestview Via',1
-'16890-special',1100,95310,0,'Crestview Via',1
-'16892-special',1100,121610,0,'Crestview Via',1
-'16894-special',1100,144010,0,'Crestview Via',1
-'16896-special',1100,170410,0,'Crestview Via',1
-'16898-special',1100,192350,0,'Crestview Via',1
-'16900-special',1100,213840,0,'Crestview Via',1
-'16902-special',1100,234540,0,'Crestview Via',1
-'16906-special',1100,75550,0,'St Charles Via',1
-'16908-special',1100,100910,0,'St Charles Via',1
-'16910-special',1100,123210,0,'St Charles Via',1
-'16912-special',1100,145610,0,'St Charles Via',1
-'16914-special',1100,172010,0,'St Charles Via',1
-'16916-special',1100,193850,0,'St Charles Via',1
-'16918-special',1100,215240,0,'St Charles Via',1
-'16920-special',1100,240040,0,'St Charles Via',1
-'16924-special',1100,72650,0,'Westwood Via',1
-'16926-special',1100,93710,0,'Westwood Via',1
-'16928-special',1100,120010,0,'Westwood Via',1
-'16930-special',1100,142410,0,'Westwood Via',1
-'16932-special',1100,164810,0,'Westwood Via',1
-'16934-special',1100,190850,0,'Westwood Via',1
-'16936-special',1100,212340,0,'Westwood Via',1
-'16938-special',1100,233140,0,'Westwood Via',1
-'16942-special',1100,71150,0,'St Charles Via',1
-'16944-special',1100,92210,0,'St Charles Via',1
-'16946-special',1100,114510,0,'St Charles Via',1
-'16948-special',1100,140810,0,'St Charles Via',1
-'16950-special',1100,163210,0,'St Charles Via',1
-'16952-special',1100,185350,0,'St Charles Via',1
-'16954-special',1100,210840,0,'St Charles Via',1
-'16956-special',1100,231740,0,'St Charles Via',1
-'16959-special',1100,62950,0,'St Charles Via',1
-'16961-special',1100,83950,0,'St Charles Via',1
-'16963-special',1100,105710,0,'St Charles Via',1
-'16965-special',1100,132010,0,'St Charles Via',1
-'16967-special',1100,154410,0,'St Charles Via',1
-'16969-special',1100,180710,0,'St Charles Via',1
-'16971-special',1100,202450,0,'St Charles Via',1
-'16973-special',1100,223540,0,'St Charles Via',1
+'1',1100,51450,0,'Polo Pk',1,1600,0,'Polo Pk',1,1600,0,'Polo Pk',1,5500,0,'Polo Pk',1,1500,0,'Polo Pk',1,1500,0,'Polo Pk',1,1500,0,'Polo Pk',1,5500,0,'Polo Pk',1,1500,0,'Polo Pk',1,1500,0,'Polo Pk',1,1400,0,'Polo Pk',1,5500,0,'Polo Pk',1,1500,0,'Polo Pk',1,1560,0,'Polo Pk',1,1300,0,'Polo Pk',1,1100,0,'Polo Pk',1,5100,0,'Polo Pk',1,1100,0,'Polo Pk',1,1100,0,'Polo Pk',1,1100,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,900,0,'Polo Pk',1,4900,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,900,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,900,0,'Polo Pk',1,4900,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Westwood',1,1000,0,'Crestview',1,5000,0,'St Charles',1,1000,0,'Polo Pk',1,1000,0,'Westwood',1,1000,0,'Crestview',1,1000,0,'St Charles',1,1100,0,'Westwood',1,5100,0,'Crestview',1,1100,0,'St Charles',1,1000,0,'Westwood',1,1100,0,'Crestview',1,1000,0,'St Charles',1,1100,0,'Westwood',1,5200,0,'Crestview',1,1200,0,'St Charles',1,1200,0,'Westwood',1,1200,0,'Crestview',1,1100,0,'St Charles',1,5200,0,'Westwood',1,1500,0,'Crestview',1,1440,0,'St Charles',1,1500,0,'Westwood',1,5500,0,'Crestview',1,1400,0,'St Charles',1,1500,0,'Westwood',1,1500,0,'Crestview',1,5500,0,'St Charles',1,1600,0,'Westwood',1,1500,0,'Crestview',1,1300,0,'St Charles',1,5300,0,'Westwood',1,1300,0,'Crestview',1,1400,0,'St Charles',1,1400,0,'Westwood',1,1300,0,'Crestview',1,5400,0,'St Charles',1,1400,0,'Westwood',1,1400,0,'Crestview',1
+'16804-special',1100,65750,0,'Crestview',1
+'16806-special',1100,90810,0,'Crestview',1
+'16808-special',1100,112910,0,'Crestview',1
+'16810-special',1100,135210,0,'Crestview',1
+'16812-special',1100,161610,0,'Crestview',1
+'16814-special',1100,183850,0,'Crestview',1
+'16816-special',1100,205450,0,'Crestview',1
+'16818-special',1100,230340,0,'Crestview',1
+'16825-special',1100,61750,0,'Crestview',1
+'16827-special',1100,82550,0,'Crestview',1
+'16829-special',1100,104110,0,'Crestview',1
+'16831-special',1100,130410,0,'Crestview',1
+'16833-special',1100,152810,0,'Crestview',1
+'16835-special',1100,175110,0,'Crestview',1
+'16837-special',1100,200950,0,'Crestview',1
+'16839-special',1100,222140,0,'Crestview',1
+'16843-special',1100,244040,0,'Crestview',1
+'16849-special',1100,64350,0,'Westwood',1
+'16851-special',1100,85410,0,'Westwood',1
+'16853-special',1100,111310,0,'Westwood',1
+'16855-special',1100,133610,0,'Westwood',1
+'16857-special',1100,160010,0,'Westwood',1
+'16859-special',1100,182310,0,'Westwood',1
+'16861-special',1100,203950,0,'Westwood',1
+'16863-special',1100,224940,0,'Westwood',1
+'16868-special',1100,60550,0,'Westwood',1
+'16870-special',1100,81050,0,'Westwood',1
+'16872-special',1100,102510,0,'Westwood',1
+'16874-special',1100,124810,0,'Westwood',1
+'16876-special',1100,151210,0,'Westwood',1
+'16878-special',1100,173610,0,'Westwood',1
+'16880-special',1100,195450,0,'Westwood',1
+'16882-special',1100,220640,0,'Westwood',1
+'16884-special',1100,241540,0,'Westwood',1
+'16888-special',1100,74150,0,'Crestview',1
+'16890-special',1100,95310,0,'Crestview',1
+'16892-special',1100,121610,0,'Crestview',1
+'16894-special',1100,144010,0,'Crestview',1
+'16896-special',1100,170410,0,'Crestview',1
+'16898-special',1100,192350,0,'Crestview',1
+'16900-special',1100,213840,0,'Crestview',1
+'16902-special',1100,234540,0,'Crestview',1
+'16906-special',1100,75550,0,'St Charles',1
+'16908-special',1100,100910,0,'St Charles',1
+'16910-special',1100,123210,0,'St Charles',1
+'16912-special',1100,145610,0,'St Charles',1
+'16914-special',1100,172010,0,'St Charles',1
+'16916-special',1100,193850,0,'St Charles',1
+'16918-special',1100,215240,0,'St Charles',1
+'16920-special',1100,240040,0,'St Charles',1
+'16924-special',1100,72650,0,'Westwood',1
+'16926-special',1100,93710,0,'Westwood',1
+'16928-special',1100,120010,0,'Westwood',1
+'16930-special',1100,142410,0,'Westwood',1
+'16932-special',1100,164810,0,'Westwood',1
+'16934-special',1100,190850,0,'Westwood',1
+'16936-special',1100,212340,0,'Westwood',1
+'16938-special',1100,233140,0,'Westwood',1
+'16942-special',1100,71150,0,'St Charles',1
+'16944-special',1100,92210,0,'St Charles',1
+'16946-special',1100,114510,0,'St Charles',1
+'16948-special',1100,140810,0,'St Charles',1
+'16950-special',1100,163210,0,'St Charles',1
+'16952-special',1100,185350,0,'St Charles',1
+'16954-special',1100,210840,0,'St Charles',1
+'16956-special',1100,231740,0,'St Charles',1
+'16959-special',1100,62950,0,'St Charles',1
+'16961-special',1100,83950,0,'St Charles',1
+'16963-special',1100,105710,0,'St Charles',1
+'16965-special',1100,132010,0,'St Charles',1
+'16967-special',1100,154410,0,'St Charles',1
+'16969-special',1100,180710,0,'St Charles',1
+'16971-special',1100,202450,0,'St Charles',1
+'16973-special',1100,223540,0,'St Charles',1
 '16979-special',1100,104910,0,'Assiniboine Pk',1
 '16981-special',1100,115310,0,'Assiniboine Pk',1
 '16983-special',1100,125610,0,'Assiniboine Pk',1
@@ -138,8 +138,8 @@
 '17057-special',1100,171210,0,'Assiniboine Pk',1
 '17059-special',1100,183050,0,'Assiniboine Pk',1
 '17061-special',1100,194650,0,'Assiniboine Pk',1
-'2',1100,60550,0,'Westwood Via',1,1200,0,'Crestview Via',1,1200,0,'St Charles Via',1,1400,0,'Westwood Via',1,1400,0,'Crestview Via',1,5400,0,'St Charles Via',1,1500,0,'Westwood Via',1,1500,0,'Crestview Via',1,1400,0,'St Charles Via',1,5500,0,'Westwood Via',1,1500,0,'Crestview Via',1,1400,0,'St Charles Via',1,1460,0,'Westwood Via',1,5400,0,'Crestview Via',1,1400,0,'St Charles Via',1,1500,0,'Westwood Via',1,1600,0,'Crestview Via',1,5600,0,'St Charles Via',1,1600,0,'Westwood Via',1,1600,0,'Crestview Via',1,1600,0,'St Charles Via',1,5600,0,'Westwood Via',1,1600,0,'Crestview Via',1,800,0,'Polo Pk',1,800,0,'St Charles Via',1,700,0,'Polo Pk',1,4800,0,'Westwood Via',1,800,0,'Polo Pk',1,800,0,'Crestview Via',1,800,0,'Polo Pk',1,800,0,'St Charles Via',1,800,0,'Polo Pk',1,800,0,'Westwood Via',1,800,0,'Polo Pk',1,4800,0,'Crestview Via',1,800,0,'Polo Pk',1,800,0,'St Charles Via',1,800,0,'Polo Pk',1,800,0,'Westwood Via',1,800,0,'Polo Pk',1,800,0,'Crestview Via',1,4800,0,'Polo Pk',1,800,0,'St Charles Via',1,800,0,'Polo Pk',1,800,0,'Westwood Via',1,800,0,'Polo Pk',1,800,0,'Crestview Via',1,800,0,'Polo Pk',1,800,0,'St Charles Via',1,4800,0,'Polo Pk',1,800,0,'Westwood Via',1,800,0,'Polo Pk',1,800,0,'Crestview Via',1,800,0,'Polo Pk',1,800,0,'St Charles Via',1,800,0,'Polo Pk',1,4800,0,'Westwood Via',1,800,0,'Polo Pk',1,800,0,'Crestview Via',1,800,0,'Polo Pk',1,800,0,'St Charles Via',1,800,0,'Polo Pk',1,800,0,'Westwood Via',1,800,0,'Polo Pk',1,4800,0,'Crestview Via',1,800,0,'Polo Pk',1,800,0,'St Charles Via',1,800,0,'Polo Pk',1,800,0,'Westwood Via',1,1500,0,'Crestview Via',1,5600,0,'St Charles Via',1,1600,0,'Westwood Via',1,1540,0,'Crestview Via',1,1500,0,'St Charles Via',1,5500,0,'Westwood Via',1,1500,0,'Crestview Via',1,1500,0,'St Charles Via',1,1600,0,'Westwood Via',1,5500,0,'Crestview Via',1,1500,0,'St Charles Via',1,1500,0,'Westwood Via',1,1500,0,'Crestview Via',1,5390,0,'St Charles Via',1,1500,0,'Westwood Via',1,1500,0,'Crestview Via',1,1400,0,'St Charles Via',1,5400,0,'Westwood Via',1,1500,0,'Crestview Via',1,1400,0,'St Charles Via',1,1400,0,'Westwood Via',1,5400,0,'Crestview Via',1,1400,0,'St Charles Via',1,1400,0,'Westwood Via',1,1400,0,'Crestview Via',1,5500,0,'St Charles Via',1,1500,0,'Westwood Via',1
-'4',1100,53050,0,'Polo Pk',1,1400,0,'Polo Pk',1,1200,0,'Polo Pk',1,5100,0,'Polo Pk',1,1300,0,'Polo Pk',1,1360,0,'Polo Pk',1,840,0,'Polo Pk',1,800,0,'Polo Pk',1,800,0,'Polo Pk',1,4860,0,'Polo Pk',1,800,0,'Polo Pk',1,810,0,'Polo Pk',1,790,0,'Polo Pk',1,700,0,'Polo Pk',1,700,0,'Polo Pk',1,600,0,'Polo Pk',1,600,0,'Polo Pk',1,4610,0,'Polo Pk',1,700,0,'Polo Pk',1,800,0,'Polo Pk',1,700,0,'Polo Pk',1,790,0,'Polo Pk',1,900,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1010,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5010,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,4990,0,'Polo Pk',1,1100,0,'Polo Pk',1,900,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,900,0,'Polo Pk',1,5100,0,'Crestview Via',1,990,0,'St Charles Via',1,1010,0,'Westwood Via',1,1000,0,'Crestview Via',1,1000,0,'St Charles Via',1,1000,0,'Westwood Via',1,5000,0,'Crestview Via',1,1000,0,'St Charles Via',1,1000,0,'Westwood Via',1,1000,0,'Crestview Via',1,1000,0,'St Charles Via',1,1000,0,'Westwood Via',1,5000,0,'Crestview Via',1,1000,0,'St Charles Via',1,1090,0,'Westwood Via',1,1100,0,'Crestview Via',1,1200,0,'St Charles Via',1,1200,0,'Crestview Via',1,5200,0,'Westwood Via',1,1300,0,'Crestview Via',1,1300,0,'St Charles Via',1,1400,0,'Westwood Via',1,5400,0,'Crestview Via',1,1500,0,'St Charles Via',1,1500,0,'Westwood Via',1,1500,0,'Crestview Via',1,5500,0,'St Charles Via',1,1500,0,'Westwood Via',1,1500,0,'Crestview Via',1,1500,0,'St Charles Via',1,5340,0,'Westwood Via',1,1400,0,'Crestview Via',1,1400,0,'St Charles Via',1,1400,0,'Westwood Via',1,1400,0,'Crestview Via',1,5300,0,'St Charles Via',1,1300,0,'Westwood Via',1,1400,0,'Crestview Via',1
+'2',1100,60550,0,'Westwood',1,1200,0,'Crestview',1,1200,0,'St Charles',1,1400,0,'Westwood',1,1400,0,'Crestview',1,5400,0,'St Charles',1,1500,0,'Westwood',1,1500,0,'Crestview',1,1400,0,'St Charles',1,5500,0,'Westwood',1,1500,0,'Crestview',1,1400,0,'St Charles',1,1460,0,'Westwood',1,5400,0,'Crestview',1,1400,0,'St Charles',1,1500,0,'Westwood',1,1600,0,'Crestview',1,5600,0,'St Charles',1,1600,0,'Westwood',1,1600,0,'Crestview',1,1600,0,'St Charles',1,5600,0,'Westwood',1,1600,0,'Crestview',1,800,0,'Polo Pk',1,800,0,'St Charles',1,700,0,'Polo Pk',1,4800,0,'Westwood',1,800,0,'Polo Pk',1,800,0,'Crestview',1,800,0,'Polo Pk',1,800,0,'St Charles',1,800,0,'Polo Pk',1,800,0,'Westwood',1,800,0,'Polo Pk',1,4800,0,'Crestview',1,800,0,'Polo Pk',1,800,0,'St Charles',1,800,0,'Polo Pk',1,800,0,'Westwood',1,800,0,'Polo Pk',1,800,0,'Crestview',1,4800,0,'Polo Pk',1,800,0,'St Charles',1,800,0,'Polo Pk',1,800,0,'Westwood',1,800,0,'Polo Pk',1,800,0,'Crestview',1,800,0,'Polo Pk',1,800,0,'St Charles',1,4800,0,'Polo Pk',1,800,0,'Westwood',1,800,0,'Polo Pk',1,800,0,'Crestview',1,800,0,'Polo Pk',1,800,0,'St Charles',1,800,0,'Polo Pk',1,4800,0,'Westwood',1,800,0,'Polo Pk',1,800,0,'Crestview',1,800,0,'Polo Pk',1,800,0,'St Charles',1,800,0,'Polo Pk',1,800,0,'Westwood',1,800,0,'Polo Pk',1,4800,0,'Crestview',1,800,0,'Polo Pk',1,800,0,'St Charles',1,800,0,'Polo Pk',1,800,0,'Westwood',1,1500,0,'Crestview',1,5600,0,'St Charles',1,1600,0,'Westwood',1,1540,0,'Crestview',1,1500,0,'St Charles',1,5500,0,'Westwood',1,1500,0,'Crestview',1,1500,0,'St Charles',1,1600,0,'Westwood',1,5500,0,'Crestview',1,1500,0,'St Charles',1,1500,0,'Westwood',1,1500,0,'Crestview',1,5390,0,'St Charles',1,1500,0,'Westwood',1,1500,0,'Crestview',1,1400,0,'St Charles',1,5400,0,'Westwood',1,1500,0,'Crestview',1,1400,0,'St Charles',1,1400,0,'Westwood',1,5400,0,'Crestview',1,1400,0,'St Charles',1,1400,0,'Westwood',1,1400,0,'Crestview',1,5500,0,'St Charles',1,1500,0,'Westwood',1
+'4',1100,53050,0,'Polo Pk',1,1400,0,'Polo Pk',1,1200,0,'Polo Pk',1,5100,0,'Polo Pk',1,1300,0,'Polo Pk',1,1360,0,'Polo Pk',1,840,0,'Polo Pk',1,800,0,'Polo Pk',1,800,0,'Polo Pk',1,4860,0,'Polo Pk',1,800,0,'Polo Pk',1,810,0,'Polo Pk',1,790,0,'Polo Pk',1,700,0,'Polo Pk',1,700,0,'Polo Pk',1,600,0,'Polo Pk',1,600,0,'Polo Pk',1,4610,0,'Polo Pk',1,700,0,'Polo Pk',1,800,0,'Polo Pk',1,700,0,'Polo Pk',1,790,0,'Polo Pk',1,900,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1010,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,5010,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,4990,0,'Polo Pk',1,1100,0,'Polo Pk',1,900,0,'Polo Pk',1,1000,0,'Polo Pk',1,1000,0,'Polo Pk',1,900,0,'Polo Pk',1,5100,0,'Crestview',1,990,0,'St Charles',1,1010,0,'Westwood',1,1000,0,'Crestview',1,1000,0,'St Charles',1,1000,0,'Westwood',1,5000,0,'Crestview',1,1000,0,'St Charles',1,1000,0,'Westwood',1,1000,0,'Crestview',1,1000,0,'St Charles',1,1000,0,'Westwood',1,5000,0,'Crestview',1,1000,0,'St Charles',1,1090,0,'Westwood',1,1100,0,'Crestview',1,1200,0,'St Charles',1,1200,0,'Crestview',1,5200,0,'Westwood',1,1300,0,'Crestview',1,1300,0,'St Charles',1,1400,0,'Westwood',1,5400,0,'Crestview',1,1500,0,'St Charles',1,1500,0,'Westwood',1,1500,0,'Crestview',1,5500,0,'St Charles',1,1500,0,'Westwood',1,1500,0,'Crestview',1,1500,0,'St Charles',1,5340,0,'Westwood',1,1400,0,'Crestview',1,1400,0,'St Charles',1,1400,0,'Westwood',1,1400,0,'Crestview',1,5300,0,'St Charles',1,1300,0,'Westwood',1,1400,0,'Crestview',1
 '1',1401,53540,,'',1,2300,,'',1,6210,,'',1,2200,,'',1,6300,,'',1,2300,,'',1,2300,,'',1,6400,,'',1,2400,,'',1,6450,,'',1,2300,,'',1,2300,,'',1,5900,,'',1,1800,,'',1,1600,,'',1,1600,,'',1,5600,,'',1,1600,,'',1,1600,,'',1,5600,,'',1,1600,,'',1,1600,,'',1,1600,,'',1,5600,,'',1,1600,,'',1,1600,,'',1,1600,,'',1,5600,,'',1,1600,,'',1,1600,,'',1,1600,,'',1,5600,,'',1,1600,,'',1,1600,,'',1,5600,,'',1,1600,,'',1,1600,,'',1,1600,,'',1,5600,,'',1,1600,,'',1,1600,,'',1,1500,,'',1,5600,,'',1,1500,,'',1,1600,,'',1,1500,,'',1,6400,,'',1,2900,,'',1,6950,,'',1,3000,,'',1,7000,,'',1,2700,,'',1,6690,,'',1,2700,,'',1,6800,,'',1,2700,,'',1,6600,,'',1,2500,,'',1,2400,,'',1,6400,,'',1,2500,,'',1
 '17103-special',1401,65650,,'',1
 '17105-special',1401,85100,,'',1
@@ -277,7 +277,7 @@
 '1',2400,62250,,'',1,2300,,'',1,6200,,'',1,2200,,'',1,2200,,'',1,6200,,'',1,2200,,'',1,2200,,'',1,6300,,'',1,2300,,'',1,6300,,'',1,2300,,'',1,2300,,'',1,5660,,'',1,1600,,'',1,1600,,'',1,1600,,'',1,5600,,'',1,1600,,'',1,1600,,'',1,5600,,'',1,1600,,'',1,1600,,'',1,1600,,'',1,5600,,'',1,1700,,'',1,1600,,'',1,1600,,'',1,5600,,'',1,1600,,'',1,1700,,'',1,1600,,'',1,5700,,'',1,1600,,'',1,1600,,'',1,5600,,'',1,1600,,'',1,1600,,'',1,1700,,'',1,6740,,'',1,2900,,'',1
 '4',2400,61850,,'',1,1600,,'',1,1600,,'',1,5700,,'',1,1700,,'',1,1660,,'',1,1600,,'',1,5700,,'',1,1700,,'',1,1700,,'',1,5700,,'',1,1700,,'',1,1700,,'',1,1600,,'',1,5600,,'',1,1610,,'',1,1600,,'',1,5700,,'',1,1600,,'',1,1600,,'',1,1700,,'',1,5600,,'',1,1700,,'',1,1700,,'',1,1700,,'',1,5700,,'',1,1700,,'',1,1700,,'',1,5800,,'',1,1700,,'',1,1700,,'',1,1700,,'',1,5700,,'',1,2100,,'',1,2000,,'',1,6200,,'',1,2000,,'',1,2100,,'',1,6000,,'',1,1990,,'',1,2100,,'',1,6440,,'',1,1400,,'',1
 '4',2500,152410,,'',1,2010,,'',1,6100,,'',1,2100,,'',1,2100,,'',1,5990,,'',1,2000,,'',1,2000,,'',1,6300,,'',1
-'4',2800,60300,0,'Inkster Ind Pk Via',1,1300,0,'Oak Pt Hwy',1,1200,0,'Inkster Ind Pk Via',1,1100,0,'Oak Pt Hwy',1,1000,0,'Inkster Ind Pk Via',1,1000,0,'Oak Pt Hwy',1,5000,0,'Inkster Ind Pk Via',1,1000,0,'Oak Pt Hwy',1,1010,0,'Inkster Ind Pk Via',1,1000,0,'Oak Pt Hwy',1,1200,0,'Inkster Ind Pk Via',1,5100,0,'Oak Pt Hwy',1
+'4',2800,60300,0,'Inkster Ind Pk',1,1300,0,'Oak Pt Hwy',1,1200,0,'Inkster Ind Pk',1,1100,0,'Oak Pt Hwy',1,1000,0,'Inkster Ind Pk',1,1000,0,'Oak Pt Hwy',1,5000,0,'Inkster Ind Pk',1,1000,0,'Oak Pt Hwy',1,1010,0,'Inkster Ind Pk',1,1000,0,'Oak Pt Hwy',1,1200,0,'Inkster Ind Pk',1,5100,0,'Oak Pt Hwy',1
 '1',3800,62200,,'',1,8300,,'',1,4200,,'',1,7000,,'',1,2900,,'',1,7000,,'',1,3000,,'',1,7010,,'',1,3000,,'',1,7000,,'',1,3000,,'',1,7100,,'',1,3200,,'',1,7200,,'',1,3200,,'',1,7200,,'',1,3200,,'',1,7200,,'',1,7200,,'',1,3200,,'',1,7100,,'',1,3000,,'',1,6990,,'',1,4300,,'',1,8300,,'',1,8200,,'',1,4100,,'',1,8000,,'',1,7940,,'',1,3900,,'',1,8000,,'',1,7700,,'',1,3900,,'',1
 '17959-special',3800,71440,,'',1
 '17961-special',3800,83840,,'',1

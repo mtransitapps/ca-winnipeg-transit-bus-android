@@ -1,4 +1,4 @@
-'1',1101,183840,0,'Glenway Via',1,7600,0,'N Kildonan',1,3400,0,'Glenway Via',1,7400,0,'N Kildonan',1,3300,0,'Glenway Via',1,7400,0,'N Kildonan',1,7900,0,'Glenway Via',1,4200,0,'N Kildonan',1,8300,0,'Glenway Via',1,8570,0,'N Kildonan',1,8800,0,'Glenway Via',1,11100,0,'Portage & Rouge',1
+'1',1101,183840,0,'Glenway',1,7600,0,'N Kildonan',1,3400,0,'Glenway',1,7400,0,'N Kildonan',1,3300,0,'Glenway',1,7400,0,'N Kildonan',1,7900,0,'Glenway',1,4200,0,'N Kildonan',1,8300,0,'Glenway',1,8570,0,'N Kildonan',1,8800,0,'Glenway',1,11100,0,'Portage & Rouge',1
 '16805-special',1101,74140,0,'N Kildonan',1
 '16807-special',1101,95640,0,'N Kildonan',1
 '16809-special',1101,121740,0,'N Kildonan',1
@@ -6,7 +6,7 @@
 '16813-special',1101,170540,0,'N Kildonan',1
 '16815-special',1101,192640,0,'N Kildonan',1
 '16817-special',1101,213940,0,'N Kildonan',1
-'16819-special',1101,234540,0,'Glenway Via',1
+'16819-special',1101,234540,0,'Glenway',1
 '16826-special',1101,65940,0,'N Kildonan',1
 '16828-special',1101,90940,0,'N Kildonan',1
 '16830-special',1101,112940,0,'N Kildonan',1
@@ -22,8 +22,8 @@
 '16897-special',1101,175340,0,'N Kildonan',1
 '16899-special',1101,201140,0,'N Kildonan',1
 '16901-special',1101,222340,0,'N Kildonan',1
-'2',1101,65940,0,'N Kildonan',1,8200,0,'N Kildonan',1,8400,0,'N Kildonan',1,8400,0,'N Kildonan',1,4700,0,'N Kildonan',1,8600,0,'N Kildonan',1,8700,0,'N Kildonan',1,8800,0,'N Kildonan',1,8800,0,'N Kildonan',1,4800,0,'N Kildonan',1,8800,0,'N Kildonan',1,8800,0,'N Kildonan',1,8800,0,'N Kildonan',1,8800,0,'N Kildonan',1,4800,0,'N Kildonan',1,8800,0,'N Kildonan',1,8500,0,'N Kildonan',1,8500,0,'N Kildonan',1,4400,0,'N Kildonan',1,8400,0,'N Kildonan',1,8400,0,'N Kildonan',1,8200,0,'N Kildonan',1,4000,0,'Glenway Via',1
-'4',1101,184940,0,'Glenway Via',1,7100,0,'N Kildonan',1,3000,0,'Glenway Via',1,7200,0,'N Kildonan',1,3200,0,'Glenway Via',1,7400,0,'N Kildonan',1,7900,0,'Glenway Via',1,4200,0,'N Kildonan',1,8400,0,'Glenway Via',1,8670,0,'N Kildonan',1,8700,0,'Glenway Via',1
+'2',1101,65940,0,'N Kildonan',1,8200,0,'N Kildonan',1,8400,0,'N Kildonan',1,8400,0,'N Kildonan',1,4700,0,'N Kildonan',1,8600,0,'N Kildonan',1,8700,0,'N Kildonan',1,8800,0,'N Kildonan',1,8800,0,'N Kildonan',1,4800,0,'N Kildonan',1,8800,0,'N Kildonan',1,8800,0,'N Kildonan',1,8800,0,'N Kildonan',1,8800,0,'N Kildonan',1,4800,0,'N Kildonan',1,8800,0,'N Kildonan',1,8500,0,'N Kildonan',1,8500,0,'N Kildonan',1,4400,0,'N Kildonan',1,8400,0,'N Kildonan',1,8400,0,'N Kildonan',1,8200,0,'N Kildonan',1,4000,0,'Glenway',1
+'4',1101,184940,0,'Glenway',1,7100,0,'N Kildonan',1,3000,0,'Glenway',1,7200,0,'N Kildonan',1,3200,0,'Glenway',1,7400,0,'N Kildonan',1,7900,0,'Glenway',1,4200,0,'N Kildonan',1,8400,0,'Glenway',1,8670,0,'N Kildonan',1,8700,0,'Glenway',1
 '1',2101,54640,,'',1,7800,,'',1,7800,,'',1,3900,,'',1,7900,,'',1,3500,,'',1,7160,,'',1,3200,,'',1,7300,,'',1,7500,,'',1,3400,,'',1,7500,,'',1,3500,,'',1,7500,,'',1,7600,,'',1,3600,,'',1,7600,,'',1,3500,,'',1,7500,,'',1,3500,,'',1,7400,,'',1,7300,,'',1
 '4',2101,84400,,'',1,7300,,'',1,3500,,'',1,7400,,'',1,7500,,'',1,3600,,'',1,7600,,'',1,3600,,'',1,7600,,'',1,7600,,'',1,3400,,'',1,7000,,'',1,3130,,'',1,6700,,'',1,2400,,'',1,2070,,'',1,6000,,'',1,1600,,'',1,1740,,'',1,6100,,'',1,1970,,'',1
 '4',2201,51740,,'',1,2400,,'',1,6400,,'',1,2000,,'',1,1700,,'',1,1700,,'',1,5600,,'',1,1760,,'',1,2100,,'',1,6600,,'',1
