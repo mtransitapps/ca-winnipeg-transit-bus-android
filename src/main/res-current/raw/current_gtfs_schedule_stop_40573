@@ -1,26 +1,3 @@
-'17777-special',1100,74200,0,'Westwood',1
-'17779-special',1100,95500,0,'Westwood',1
-'17781-special',1100,121600,0,'Westwood',1
-'17783-special',1100,143900,0,'Westwood',1
-'17785-special',1100,170500,0,'Westwood',1
-'17787-special',1100,192600,0,'Westwood',1
-'17789-special',1100,214000,0,'Westwood',1
-'17791-special',1100,235400,0,'Westwood',1
-'17850-special',1100,82500,0,'Westwood',1
-'17852-special',1100,104200,0,'Westwood',1
-'17854-special',1100,130300,0,'Westwood',1
-'17856-special',1100,152800,0,'Westwood',1
-'17858-special',1100,175300,0,'Westwood',1
-'17860-special',1100,201200,0,'Westwood',1
-'17862-special',1100,222300,0,'Westwood',1
-'17867-special',1100,65800,0,'Westwood',1
-'17869-special',1100,90900,0,'Westwood',1
-'17871-special',1100,112800,0,'Westwood',1
-'17873-special',1100,135100,0,'Westwood',1
-'17875-special',1100,161700,0,'Westwood',1
-'17877-special',1100,184100,0,'Westwood',1
-'17879-special',1100,205700,0,'Westwood',1
-'17881-special',1100,230800,0,'Westwood',1
-'1merged62058',1100,53900,0,'Polo Pk',1,8000,0,'Polo Pk',1,3000,0,'Polo Pk',1,6900,0,'Polo Pk',1,2900,0,'Polo Pk',1,8500,0,'Polo Pk',1,8500,0,'Polo Pk',1,8400,0,'Polo Pk',1,4500,0,'Polo Pk',1,8500,0,'Polo Pk',1,8500,0,'Polo Pk',1,8700,0,'Polo Pk',1,4500,0,'Polo Pk',1,8700,0,'Polo Pk',1,9100,0,'Polo Pk',1,8700,0,'Polo Pk',1,3500,0,'Polo Pk',1,6000,0,'Polo Pk',1,3700,0,'Polo Pk',1,6900,0,'Polo Pk',1,3600,0,'Polo Pk',1,7800,0,'Polo Pk',1,7900,0,'Polo Pk',1,4300,0,'St Charles',1,10000,0,'Westwood',1,9900,0,'Crestview',1,9400,0,'St Charles',1,9500,0,'Westwood',1,9000,0,'Henderson',1
-'2merged62059',1100,63400,0,'Polo Pk',1,10000,0,'Polo Pk',1,10000,0,'Polo Pk',1,9100,0,'Polo Pk',1,8200,0,'Polo Pk',1,4300,0,'Polo Pk',1,8000,0,'Polo Pk',1,8000,0,'Polo Pk',1,4100,0,'Polo Pk',1,8000,0,'Polo Pk',1,8100,0,'Polo Pk',1,4100,0,'Polo Pk',1,8000,0,'Polo Pk',1,8100,0,'Polo Pk',1,4000,0,'Polo Pk',1,7900,0,'Polo Pk',1,8100,0,'Polo Pk',1,4200,0,'Polo Pk',1,8200,0,'Polo Pk',1,7500,0,'Polo Pk',1,3900,0,'St Charles',1,9800,0,'Westwood',1,9900,0,'Crestview',1,9400,0,'St Charles',1,9500,0,'Westwood',1,9100,0,'Henderson',1
-'3merged62060',1100,65800,0,'Westwood',1,8400,0,'Westwood',1,8300,0,'Westwood',1,8400,0,'Westwood',1,4600,0,'Westwood',1,8700,0,'Westwood',1,8600,0,'Westwood',1,8800,0,'Westwood',1,8700,0,'Westwood',1,4800,0,'Westwood',1,8800,0,'Westwood',1,8900,0,'Westwood',1,8900,0,'Westwood',1,8800,0,'Westwood',1,4800,0,'Westwood',1,8800,0,'Westwood',1,8500,0,'Westwood',1,8600,0,'Westwood',1,4500,0,'Westwood',1,8300,0,'Westwood',1,8300,0,'Westwood',1,8500,0,'Westwood',1,4600,0,'Westwood',1
+'1',1100,53900,0,'Polo Pk',1,8000,0,'Polo Pk',1,3000,0,'Polo Pk',1,6900,0,'Polo Pk',1,2900,0,'Polo Pk',1,8500,0,'Polo Pk',1,8500,0,'Polo Pk',1,8400,0,'Polo Pk',1,4500,0,'Polo Pk',1,8500,0,'Polo Pk',1,8500,0,'Polo Pk',1,8700,0,'Polo Pk',1,4500,0,'Polo Pk',1,8700,0,'Polo Pk',1,9100,0,'Polo Pk',1,8700,0,'Polo Pk',1,3500,0,'Polo Pk',1,6000,0,'Polo Pk',1,3700,0,'Polo Pk',1,6900,0,'Polo Pk',1,3600,0,'Polo Pk',1,7800,0,'Polo Pk',1,7900,0,'Polo Pk',1,4300,0,'St Charles',1,10000,0,'Westwood',1,9900,0,'Crestview',1,9400,0,'St Charles',1,9500,0,'Westwood',1,9000,0,'Henderson',1
+'2',1100,63300,0,'Polo Pk',1,10100,0,'Polo Pk',1,10000,0,'Polo Pk',1,9100,0,'Polo Pk',1,8100,0,'Polo Pk',1,4300,0,'Polo Pk',1,8100,0,'Polo Pk',1,8000,0,'Polo Pk',1,4100,0,'Polo Pk',1,8000,0,'Polo Pk',1,8100,0,'Polo Pk',1,4100,0,'Polo Pk',1,8000,0,'Polo Pk',1,8100,0,'Polo Pk',1,4000,0,'Polo Pk',1,7900,0,'Polo Pk',1,8000,0,'Polo Pk',1,4200,0,'Polo Pk',1,8100,0,'Polo Pk',1,7700,0,'Polo Pk',1,3900,0,'St Charles',1,9700,0,'Westwood',1,10000,0,'Crestview',1,9400,0,'St Charles',1,9500,0,'Westwood',1,9100,0,'Henderson',1
+'3',1100,65800,0,'Westwood',1,8400,0,'Westwood',1,8300,0,'Westwood',1,8400,0,'Westwood',1,4600,0,'Westwood',1,8700,0,'Westwood',1,8600,0,'Westwood',1,8800,0,'Westwood',1,8700,0,'Westwood',1,4800,0,'Westwood',1,8800,0,'Westwood',1,8900,0,'Westwood',1,8900,0,'Westwood',1,8800,0,'Westwood',1,4800,0,'Westwood',1,8800,0,'Westwood',1,8500,0,'Westwood',1,8600,0,'Westwood',1,4500,0,'Westwood',1,8300,0,'Westwood',1,8300,0,'Westwood',1,8500,0,'Westwood',1,4600,0,'Westwood',1

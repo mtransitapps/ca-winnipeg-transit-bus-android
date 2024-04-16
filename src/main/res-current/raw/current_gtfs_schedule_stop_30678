@@ -1,26 +1,3 @@
-'18232-special',1601,91440,0,'St Vital Ctr',1
-'18236-special',1601,135240,0,'St Vital Ctr',1
-'18240-special',1601,184440,0,'St Vital Ctr',1
-'18248-special',1601,82020,0,'St Vital Ctr',1
-'18252-special',1601,131040,0,'St Vital Ctr',1
-'18256-special',1601,180240,0,'St Vital Ctr',1
-'18260-special',1601,230050,0,'St Vital Ctr',1
-'18267-special',1601,110340,0,'St Vital Ctr',1
-'18271-special',1601,155740,0,'St Vital Ctr',1
-'18275-special',1601,210850,0,'St Vital Ctr',1
-'18283-special',1601,101140,0,'St Vital Ctr',1
-'18287-special',1601,151540,0,'St Vital Ctr',1
-'18291-special',1601,201120,0,'St Vital Ctr',1
-'18295-special',1601,245100,0,'Selkirk & McPhillips',1
-'18301-special',1601,72520,0,'St Vital Ctr',1
-'18305-special',1601,122840,0,'St Vital Ctr',1
-'18309-special',1601,172040,0,'St Vital Ctr',1
-'18313-special',1601,220550,0,'St Vital Ctr',1
-'18319-special',1601,114640,0,'St Vital Ctr',1
-'18323-special',1601,163940,0,'St Vital Ctr',1
-'18331-special',1601,143340,0,'St Vital Ctr',1
-'18335-special',1601,192520,0,'St Vital Ctr',1
-'18339-special',1601,235350,0,'St Vital Ctr',1
-'1merged62058',1601,55640,0,'Isl Lks',1,6200,0,'Isl Lks',1,2860,0,'Isl Lks',1,6000,0,'Isl Lks',1,2000,0,'Isl Lks',1,1930,0,'Isl Lks',1,6000,0,'Isl Lks',1,2000,0,'Isl Lks',1,2070,0,'Isl Lks',1,7600,0,'Isl Lks',1,3200,0,'Isl Lks',1,7600,0,'Isl Lks',1,7700,0,'Isl Lks',1,3500,0,'Isl Lks',1,6900,0,'Isl Lks',1,2900,0,'Isl Lks',1,6250,0,'Isl Lks',1,2250,0,'Isl Lks',1,2300,0,'Isl Lks',1,6200,0,'Isl Lks',1,2200,0,'Isl Lks',1,2030,0,'Isl Lks',1,6020,0,'Isl Lks',1,2170,0,'Isl Lks',1,2200,0,'Isl Lks',1,6200,0,'Isl Lks',1,2330,0,'Isl Lks',1,5800,0,'Selkirk & McPhillips',1,2080,0,'Plz Dr',1,2970,0,'Plz Dr',1,800,0,'Selkirk & McPhillips',1,6120,0,'Plz Dr',1,2700,0,'St Vital Ctr',1,6800,0,'St Vital Ctr',1,3500,0,'St Vital Ctr',1,8430,0,'St Vital Ctr',1,9200,0,'St Vital Ctr',1,9400,0,'St Vital Ctr',1,9300,0,'St Vital Ctr',1,9180,0,'St Vital Ctr',1,4900,0,'St Vital Ctr',1,9070,0,'Selkirk & McPhillips',1
-'2merged62059',1601,60050,0,'St Vital Ctr',1,3870,0,'St Vital Ctr',1,8000,0,'St Vital Ctr',1,3900,0,'St Vital Ctr',1,7920,0,'St Vital Ctr',1,8000,0,'St Vital Ctr',1,4000,0,'St Vital Ctr',1,8000,0,'St Vital Ctr',1,8100,0,'St Vital Ctr',1,4000,0,'Plz Dr',1,8000,0,'Plz Dr',1,8000,0,'Plz Dr',1,3900,0,'Plz Dr',1,7900,0,'Plz Dr',1,8000,0,'Plz Dr',1,4000,0,'Plz Dr',1,7800,0,'Plz Dr',1,7800,0,'Plz Dr',1,4200,0,'Plz Dr',1,8500,0,'St Vital Ctr',1,9080,0,'St Vital Ctr',1,9600,0,'St Vital Ctr',1,9530,0,'St Vital Ctr',1,9500,0,'St Vital Ctr',1,9300,0,'St Vital Ctr',1,9380,0,'St Vital Ctr',1,5100,0,'St Vital Ctr',1,9070,0,'Selkirk & McPhillips',1
-'3merged62060',1601,72520,0,'St Vital Ctr',1,9500,0,'St Vital Ctr',1,9420,0,'St Vital Ctr',1,9700,0,'St Vital Ctr',1,9200,0,'St Vital Ctr',1,4300,0,'St Vital Ctr',1,8200,0,'St Vital Ctr',1,8200,0,'St Vital Ctr',1,4200,0,'St Vital Ctr',1,8100,0,'St Vital Ctr',1,8200,0,'St Vital Ctr',1,4200,0,'St Vital Ctr',1,8200,0,'St Vital Ctr',1,8100,0,'St Vital Ctr',1,8200,0,'St Vital Ctr',1,4200,0,'St Vital Ctr',1,8080,0,'St Vital Ctr',1,8600,0,'St Vital Ctr',1,9730,0,'St Vital Ctr',1,9700,0,'St Vital Ctr',1,9500,0,'St Vital Ctr',1,5300,0,'St Vital Ctr',1,9750,0,'Selkirk & McPhillips',1
+'1',1601,55640,0,'Isl Lks',1,6200,0,'Isl Lks',1,2860,0,'Isl Lks',1,6000,0,'Isl Lks',1,2000,0,'Isl Lks',1,1930,0,'Isl Lks',1,6000,0,'Isl Lks',1,2000,0,'Isl Lks',1,2070,0,'Isl Lks',1,7600,0,'Isl Lks',1,3200,0,'Isl Lks',1,7600,0,'Isl Lks',1,7700,0,'Isl Lks',1,3500,0,'Isl Lks',1,6900,0,'Isl Lks',1,2900,0,'Isl Lks',1,6250,0,'Isl Lks',1,2250,0,'Isl Lks',1,2300,0,'Isl Lks',1,6200,0,'Isl Lks',1,2200,0,'Isl Lks',1,2030,0,'Isl Lks',1,6020,0,'Isl Lks',1,2170,0,'Isl Lks',1,2200,0,'Isl Lks',1,6200,0,'Isl Lks',1,2330,0,'Isl Lks',1,5800,0,'Selkirk & McPhillips',1,2080,0,'Plz Dr',1,2970,0,'Plz Dr',1,800,0,'Selkirk & McPhillips',1,6120,0,'Plz Dr',1,2700,0,'St Vital Ctr',1,6800,0,'St Vital Ctr',1,3500,0,'St Vital Ctr',1,8430,0,'St Vital Ctr',1,9200,0,'St Vital Ctr',1,9400,0,'St Vital Ctr',1,9300,0,'St Vital Ctr',1,9180,0,'St Vital Ctr',1,4900,0,'St Vital Ctr',1,9070,0,'Selkirk & McPhillips',1
+'2',1601,60050,0,'St Vital Ctr',1,3870,0,'St Vital Ctr',1,8000,0,'St Vital Ctr',1,3900,0,'St Vital Ctr',1,7920,0,'St Vital Ctr',1,8000,0,'St Vital Ctr',1,4000,0,'St Vital Ctr',1,8000,0,'St Vital Ctr',1,8100,0,'St Vital Ctr',1,4000,0,'Plz Dr',1,8000,0,'Plz Dr',1,8000,0,'Plz Dr',1,3900,0,'Plz Dr',1,7900,0,'Plz Dr',1,8000,0,'Plz Dr',1,4000,0,'Plz Dr',1,7800,0,'Plz Dr',1,7800,0,'Plz Dr',1,4200,0,'Plz Dr',1,8500,0,'St Vital Ctr',1,9080,0,'St Vital Ctr',1,9600,0,'St Vital Ctr',1,9530,0,'St Vital Ctr',1,9500,0,'St Vital Ctr',1,9300,0,'St Vital Ctr',1,9380,0,'St Vital Ctr',1,5100,0,'St Vital Ctr',1,9070,0,'Selkirk & McPhillips',1
+'3',1601,72520,0,'St Vital Ctr',1,9500,0,'St Vital Ctr',1,9420,0,'St Vital Ctr',1,9700,0,'St Vital Ctr',1,9200,0,'St Vital Ctr',1,4300,0,'St Vital Ctr',1,8200,0,'St Vital Ctr',1,8200,0,'St Vital Ctr',1,4200,0,'St Vital Ctr',1,8100,0,'St Vital Ctr',1,8200,0,'St Vital Ctr',1,4200,0,'St Vital Ctr',1,8200,0,'St Vital Ctr',1,8100,0,'St Vital Ctr',1,8200,0,'St Vital Ctr',1,4200,0,'St Vital Ctr',1,8080,0,'St Vital Ctr',1,8600,0,'St Vital Ctr',1,9730,0,'St Vital Ctr',1,9700,0,'St Vital Ctr',1,9500,0,'St Vital Ctr',1,5300,0,'St Vital Ctr',1,9750,0,'Selkirk & McPhillips',1
