@@ -1,26 +1,3 @@
-'14749-special',1601,74110,0,'Southdale Ctr',1
-'14753-special',1601,121410,0,'Southdale Ctr',1
-'14757-special',1601,170810,0,'Southdale Ctr',1
-'14765-special',1601,64510,0,'Southdale Ctr',1
-'14769-special',1601,112710,0,'Southdale Ctr',1
-'14773-special',1601,162610,0,'Southdale Ctr',1
-'14777-special',1601,212510,0,'Southdale Ctr',1
-'14784-special',1601,93110,0,'Southdale Ctr',1
-'14788-special',1601,142110,0,'Southdale Ctr',1
-'14792-special',1601,191110,0,'Southdale Ctr',1
-'14796-special',1601,240800,0,'Southdale Ctr',1
-'14802-special',1601,83710,0,'Southdale Ctr',1
-'14806-special',1601,133910,0,'Southdale Ctr',1
-'14810-special',1601,183110,0,'Southdale Ctr',1
-'14814-special',1601,231510,0,'Southdale Ctr',1
-'14824-special',1601,103110,0,'Southdale Ctr',1
-'14828-special',1601,154410,0,'Southdale Ctr',1
-'14832-special',1601,203210,0,'Southdale Ctr',1
-'14842-special',1601,150310,0,'Southdale Ctr',1
-'14846-special',1601,195100,0,'Southdale Ctr',1
-'14850-special',1601,125710,0,'Southdale Ctr',1
-'14854-special',1601,174910,0,'Southdale Ctr',1
-'14858-special',1601,222010,0,'Southdale Ctr',1
-'1merged62061',1601,54220,0,'Isl Lks',1,7320,0,'Isl Lks',1,3100,0,'Isl Lks',1,6360,0,'Isl Lks',1,3100,0,'Isl Lks',1,6000,0,'Isl Lks',1,2000,0,'Isl Lks',1,2000,0,'Isl Lks',1,6000,0,'Isl Lks',1,1940,0,'Isl Lks',1,1780,0,'Isl Lks',1,7720,0,'Isl Lks',1,3200,0,'Isl Lks',1,7600,0,'Isl Lks',1,7800,0,'Isl Lks',1,3600,0,'Isl Lks',1,6900,0,'Isl Lks',1,2900,0,'Isl Lks',1,2380,0,'Isl Lks',1,6200,0,'Isl Lks',1,2280,0,'Isl Lks',1,6310,0,'Isl Lks',1,2400,0,'Isl Lks',1,2320,0,'Isl Lks',1,6420,0,'Isl Lks',1,2280,0,'Isl Lks',1,6380,0,'Isl Lks',1,2100,0,'Isl Lks',1,2090,0,'Isl Lks',1,5940,0,'Isl Lks',1,2300,0,'Isl Lks',1,2560,0,'Southdale Ctr',1,6600,0,'Southdale Ctr',1,2710,0,'Southdale Ctr',1,7490,0,'Southdale Ctr',1,3100,0,'Southdale Ctr',1,9210,0,'Southdale Ctr',1,9200,0,'Southdale Ctr',1,9230,0,'Southdale Ctr',1,9160,0,'Southdale Ctr',1,8840,0,'Southdale Ctr',1
-'2merged62062',1601,54610,0,'Southdale Ctr',1,7900,0,'Southdale Ctr',1,8000,0,'Southdale Ctr',1,4000,0,'Southdale Ctr',1,8000,0,'Southdale Ctr',1,8000,0,'Southdale Ctr',1,4100,0,'Southdale Ctr',1,8000,0,'Southdale Ctr',1,8000,0,'Southdale Ctr',1,4000,0,'Southdale Ctr',1,8430,0,'Isl Lks',1,8100,0,'Isl Lks',1,4000,0,'Isl Lks',1,7900,0,'Isl Lks',1,7800,0,'Isl Lks',1,4000,0,'Isl Lks',1,8000,0,'Isl Lks',1,7900,0,'Isl Lks',1,3800,0,'Isl Lks',1,7900,0,'Isl Lks',1,8260,0,'Southdale Ctr',1,4310,0,'Southdale Ctr',1,9500,0,'Southdale Ctr',1,9500,0,'Southdale Ctr',1,9490,0,'Southdale Ctr',1,9100,0,'Southdale Ctr',1,9210,0,'Southdale Ctr',1,9190,0,'Southdale Ctr',1
-'3merged62063',1601,64510,0,'Southdale Ctr',1,9600,0,'Southdale Ctr',1,9600,0,'Southdale Ctr',1,9400,0,'Southdale Ctr',1,10000,0,'Southdale Ctr',1,9600,0,'Southdale Ctr',1,8700,0,'Southdale Ctr',1,4300,0,'Southdale Ctr',1,8200,0,'Southdale Ctr',1,8200,0,'Southdale Ctr',1,8200,0,'Southdale Ctr',1,4100,0,'Southdale Ctr',1,8200,0,'Southdale Ctr',1,8200,0,'Southdale Ctr',1,4100,0,'Southdale Ctr',1,8200,0,'Southdale Ctr',1,8000,0,'Southdale Ctr',1,3990,0,'Southdale Ctr',1,8110,0,'Southdale Ctr',1,9300,0,'Southdale Ctr',1,9500,0,'Southdale Ctr',1,9500,0,'Southdale Ctr',1,9290,0,'Southdale Ctr',1
+'1',1601,54220,0,'Isl Lks',1,7320,0,'Isl Lks',1,3100,0,'Isl Lks',1,6360,0,'Isl Lks',1,3100,0,'Isl Lks',1,6000,0,'Isl Lks',1,2000,0,'Isl Lks',1,2000,0,'Isl Lks',1,6000,0,'Isl Lks',1,1940,0,'Isl Lks',1,1780,0,'Isl Lks',1,7720,0,'Isl Lks',1,3200,0,'Isl Lks',1,7600,0,'Isl Lks',1,7800,0,'Isl Lks',1,3600,0,'Isl Lks',1,6900,0,'Isl Lks',1,2900,0,'Isl Lks',1,2380,0,'Isl Lks',1,6200,0,'Isl Lks',1,2280,0,'Isl Lks',1,6310,0,'Isl Lks',1,2400,0,'Isl Lks',1,2320,0,'Isl Lks',1,6420,0,'Isl Lks',1,2280,0,'Isl Lks',1,6380,0,'Isl Lks',1,2100,0,'Isl Lks',1,2090,0,'Isl Lks',1,5940,0,'Isl Lks',1,2300,0,'Isl Lks',1,2560,0,'Southdale Ctr',1,6600,0,'Southdale Ctr',1,2710,0,'Southdale Ctr',1,7490,0,'Southdale Ctr',1,3100,0,'Southdale Ctr',1,9210,0,'Southdale Ctr',1,9200,0,'Southdale Ctr',1,9230,0,'Southdale Ctr',1,9160,0,'Southdale Ctr',1,8840,0,'Southdale Ctr',1
+'2',1601,54610,0,'Southdale Ctr',1,7900,0,'Southdale Ctr',1,8000,0,'Southdale Ctr',1,4000,0,'Southdale Ctr',1,8000,0,'Southdale Ctr',1,8000,0,'Southdale Ctr',1,4100,0,'Southdale Ctr',1,8000,0,'Southdale Ctr',1,8000,0,'Southdale Ctr',1,4000,0,'Southdale Ctr',1,8430,0,'Isl Lks',1,8100,0,'Isl Lks',1,4000,0,'Isl Lks',1,7900,0,'Isl Lks',1,7800,0,'Isl Lks',1,4000,0,'Isl Lks',1,8000,0,'Isl Lks',1,7900,0,'Isl Lks',1,3800,0,'Isl Lks',1,7900,0,'Isl Lks',1,8260,0,'Southdale Ctr',1,4310,0,'Southdale Ctr',1,9500,0,'Southdale Ctr',1,9500,0,'Southdale Ctr',1,9490,0,'Southdale Ctr',1,9100,0,'Southdale Ctr',1,9210,0,'Southdale Ctr',1,9190,0,'Southdale Ctr',1
+'3',1601,64510,0,'Southdale Ctr',1,9600,0,'Southdale Ctr',1,9600,0,'Southdale Ctr',1,9400,0,'Southdale Ctr',1,10000,0,'Southdale Ctr',1,9600,0,'Southdale Ctr',1,8700,0,'Southdale Ctr',1,4300,0,'Southdale Ctr',1,8200,0,'Southdale Ctr',1,8200,0,'Southdale Ctr',1,8200,0,'Southdale Ctr',1,4100,0,'Southdale Ctr',1,8200,0,'Southdale Ctr',1,8200,0,'Southdale Ctr',1,4100,0,'Southdale Ctr',1,8200,0,'Southdale Ctr',1,8000,0,'Southdale Ctr',1,3990,0,'Southdale Ctr',1,8110,0,'Southdale Ctr',1,9300,0,'Southdale Ctr',1,9500,0,'Southdale Ctr',1,9500,0,'Southdale Ctr',1,9290,0,'Southdale Ctr',1

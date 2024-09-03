@@ -1,27 +1,4 @@
-'14259-special',1100,75630,0,'Crestview',1
-'14261-special',1100,101030,0,'Crestview',1
-'14263-special',1100,123130,0,'Crestview',1
-'14265-special',1100,145530,0,'Crestview',1
-'14267-special',1100,172030,0,'Crestview',1
-'14269-special',1100,194130,0,'Crestview',1
-'14271-special',1100,215430,0,'Crestview',1
-'14279-special',1100,62930,0,'Crestview',1
-'14281-special',1100,83930,0,'Crestview',1
-'14283-special',1100,105730,0,'Crestview',1
-'14285-special',1100,131830,0,'Crestview',1
-'14287-special',1100,154430,0,'Crestview',1
-'14289-special',1100,180930,0,'Crestview',1
-'14291-special',1100,202730,0,'Crestview',1
-'14293-special',1100,223830,0,'Crestview',1
-'14362-special',1100,71230,0,'Crestview',1
-'14364-special',1100,92330,0,'Crestview',1
-'14366-special',1100,114330,0,'Crestview',1
-'14368-special',1100,140630,0,'Crestview',1
-'14370-special',1100,163230,0,'Crestview',1
-'14372-special',1100,185730,0,'Crestview',1
-'14374-special',1100,211230,0,'Crestview',1
-'14376-special',1100,232330,0,'Crestview',1
-'1merged62061',1100,55830,0,'Polo Pk',1,7600,0,'Polo Pk',1,6770,0,'Polo Pk',1,3000,0,'Polo Pk',1,7600,0,'Polo Pk',1,4500,0,'Polo Pk',1,8700,0,'Polo Pk',1,8300,0,'Polo Pk',1,8600,0,'Polo Pk',1,4500,0,'Polo Pk',1,8530,0,'Polo Pk',1,8600,0,'Polo Pk',1,8600,0,'Polo Pk',1,4800,0,'Polo Pk',1,9100,0,'Polo Pk',1,7800,0,'Polo Pk',1,2600,0,'Henderson',1,7100,0,'Polo Pk',1,3000,0,'Polo Pk',1,8300,0,'Polo Pk',1,7100,0,'Polo Pk',1,4000,0,'Polo Pk',1,7900,0,'Polo Pk',1,9300,0,'Crestview',1,9800,0,'St Charles',1,9700,0,'Westwood',1,9400,0,'Crestview',1,9400,0,'St Charles',1,4800,0,'Henderson',1
-'2merged62062',1100,60130,0,'Polo Pk',1,10300,0,'Polo Pk',1,9800,0,'Polo Pk',1,10100,0,'Polo Pk',1,4100,0,'Polo Pk',1,8200,0,'Polo Pk',1,8400,0,'Polo Pk',1,3900,0,'Polo Pk',1,8000,0,'Polo Pk',1,8100,0,'Polo Pk',1,4100,0,'Polo Pk',1,8000,0,'Polo Pk',1,8100,0,'Polo Pk',1,4100,0,'Polo Pk',1,8000,0,'Polo Pk',1,7800,0,'Polo Pk',1,4100,0,'Polo Pk',1,8300,0,'Polo Pk',1,8000,0,'Polo Pk',1,3600,0,'Henderson',1,8600,0,'Polo Pk',1,8200,0,'Crestview',1,10000,0,'St Charles',1,9700,0,'Westwood',1,9400,0,'Crestview',1,9400,0,'St Charles',1,4700,0,'Henderson',1
-'3merged62063',1100,62930,0,'Crestview',1,8300,0,'Crestview',1,4400,0,'Crestview',1,8300,0,'Crestview',1,8400,0,'Crestview',1,8700,0,'Crestview',1,4700,0,'Crestview',1,8600,0,'Crestview',1,8800,0,'Crestview',1,8700,0,'Crestview',1,8800,0,'Crestview',1,4900,0,'Crestview',1,8900,0,'Crestview',1,8800,0,'Crestview',1,8800,0,'Crestview',1,8900,0,'Crestview',1,4800,0,'Crestview',1,8400,0,'Crestview',1,8600,0,'Crestview',1,8500,0,'Crestview',1,4200,0,'Crestview',1,8400,0,'Crestview',1,8500,0,'Crestview',1
-'1merged62061',4001,60710,,'',1,2100,,'',1,1100,,'',1,2000,,'',1,6000,,'',1,1100,,'',1,1800,,'',1,6100,,'',1,2100,,'',1
+'1',1100,55830,0,'Polo Pk',1,7600,0,'Polo Pk',1,6770,0,'Polo Pk',1,3000,0,'Polo Pk',1,7600,0,'Polo Pk',1,4500,0,'Polo Pk',1,8700,0,'Polo Pk',1,8300,0,'Polo Pk',1,8600,0,'Polo Pk',1,4500,0,'Polo Pk',1,8530,0,'Polo Pk',1,8600,0,'Polo Pk',1,8600,0,'Polo Pk',1,4800,0,'Polo Pk',1,9100,0,'Polo Pk',1,7800,0,'Polo Pk',1,2600,0,'Henderson',1,7200,0,'Polo Pk',1,2900,0,'Polo Pk',1,8300,0,'Polo Pk',1,7100,0,'Polo Pk',1,4000,0,'Polo Pk',1,7900,0,'Polo Pk',1,9300,0,'Crestview',1,9800,0,'St Charles',1,9700,0,'Westwood',1,9400,0,'Crestview',1,9400,0,'St Charles',1,4800,0,'Henderson',1
+'2',1100,60130,0,'Polo Pk',1,10300,0,'Polo Pk',1,9800,0,'Polo Pk',1,10100,0,'Polo Pk',1,4100,0,'Polo Pk',1,8200,0,'Polo Pk',1,8400,0,'Polo Pk',1,3900,0,'Polo Pk',1,8000,0,'Polo Pk',1,8100,0,'Polo Pk',1,4100,0,'Polo Pk',1,8000,0,'Polo Pk',1,8100,0,'Polo Pk',1,4100,0,'Polo Pk',1,8000,0,'Polo Pk',1,7800,0,'Polo Pk',1,4100,0,'Polo Pk',1,8300,0,'Polo Pk',1,8000,0,'Polo Pk',1,3600,0,'Henderson',1,8600,0,'Polo Pk',1,8200,0,'Crestview',1,10000,0,'St Charles',1,9700,0,'Westwood',1,9400,0,'Crestview',1,9400,0,'St Charles',1,4700,0,'Henderson',1
+'3',1100,62930,0,'Crestview',1,8300,0,'Crestview',1,4400,0,'Crestview',1,8300,0,'Crestview',1,8400,0,'Crestview',1,8700,0,'Crestview',1,4700,0,'Crestview',1,8600,0,'Crestview',1,8800,0,'Crestview',1,8700,0,'Crestview',1,8800,0,'Crestview',1,4900,0,'Crestview',1,8900,0,'Crestview',1,8800,0,'Crestview',1,8800,0,'Crestview',1,8900,0,'Crestview',1,4800,0,'Crestview',1,8400,0,'Crestview',1,8600,0,'Crestview',1,8500,0,'Crestview',1,4200,0,'Crestview',1,8400,0,'Crestview',1,8500,0,'Crestview',1
+'1',4001,61740,,'',1,1300,,'',1,1300,,'',1,1300,,'',1,5300,,'',1,1500,,'',1,1800,,'',1,6000,,'',1,2100,,'',1

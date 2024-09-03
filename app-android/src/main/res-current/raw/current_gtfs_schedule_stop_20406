@@ -1,30 +1,6 @@
-'14300-special',1100,65900,0,'St Charles',1
-'14302-special',1100,91000,0,'St Charles',1
-'14304-special',1100,112900,0,'St Charles',1
-'14306-special',1100,135200,0,'St Charles',1
-'14308-special',1100,161700,0,'St Charles',1
-'14310-special',1100,184100,0,'St Charles',1
-'14312-special',1100,205700,0,'St Charles',1
-'14314-special',1100,230700,0,'St Charles',1
-'14380-special',1100,82600,0,'St Charles',1
-'14382-special',1100,104200,0,'St Charles',1
-'14384-special',1100,130400,0,'St Charles',1
-'14386-special',1100,152800,0,'St Charles',1
-'14388-special',1100,175400,0,'St Charles',1
-'14390-special',1100,201200,0,'St Charles',1
-'14392-special',1100,222500,0,'St Charles',1
-'14394-special',1100,243200,0,'St Charles',1
-'14417-special',1100,74100,0,'St Charles',1
-'14419-special',1100,95600,0,'St Charles',1
-'14421-special',1100,121600,0,'St Charles',1
-'14423-special',1100,144000,0,'St Charles',1
-'14425-special',1100,170600,0,'St Charles',1
-'14427-special',1100,192700,0,'St Charles',1
-'14429-special',1100,214200,0,'St Charles',1
-'14431-special',1100,235000,0,'St Charles',1
-'1merged62061',1100,215100,0,'St Charles',1,8400,0,'St Charles',1,8200,0,'St Charles',1,8300,0,'St Charles',1,3700,0,'St Charles',1,8000,0,'St Charles',1,4000,0,'St Charles',1
-'2merged62062',1100,215200,0,'St Charles',1,8200,0,'St Charles',1,8300,0,'St Charles',1,8300,0,'St Charles',1,3700,0,'St Charles',1,8000,0,'St Charles',1,4000,0,'St Charles',1
-'3merged62063',1100,65900,0,'St Charles',1,8200,0,'St Charles',1,8500,0,'St Charles',1,8400,0,'St Charles',1,4600,0,'St Charles',1,8600,0,'St Charles',1,8700,0,'St Charles',1,8700,0,'St Charles',1,8800,0,'St Charles',1,4800,0,'St Charles',1,8800,0,'St Charles',1,8800,0,'St Charles',1,8900,0,'St Charles',1,8900,0,'St Charles',1,4800,0,'St Charles',1,8700,0,'St Charles',1,8600,0,'St Charles',1,8500,0,'St Charles',1,4500,0,'St Charles',1,8500,0,'St Charles',1,8300,0,'St Charles',1,8200,0,'St Charles',1,4300,0,'St Charles',1,8200,0,'St Charles',1
-'1merged62061',2100,54030,0,'St Charles',1,6000,0,'St Charles',1,2700,0,'St Charles',1,3200,0,'St Charles',1,6300,0,'St Charles',1,2900,0,'St Charles',1,6600,0,'St Charles',1,3000,0,'St Charles',1,7200,0,'St Charles',1,3300,0,'St Charles',1,7400,0,'St Charles',1,3300,0,'St Charles',1,7400,0,'St Charles',1,7500,0,'St Charles',1,3500,0,'St Charles',1,7300,0,'St Charles',1,3500,0,'St Charles',1,7500,0,'St Charles',1,7400,0,'St Charles',1,3600,0,'St Charles',1,37000,0,'St Charles',1,3500,0,'St Charles',1,6900,0,'St Charles',1,3000,0,'St Charles',1,6700,0,'St Charles',1
-'2merged62062',2100,55230,0,'St Charles',1,8400,0,'St Charles',1,8000,0,'St Charles',1,3400,0,'St Charles',1,8900,0,'St Charles',1,7700,0,'St Charles',1,3200,0,'St Charles',1,7100,0,'St Charles',1,3200,0,'St Charles',1,7300,0,'St Charles',1,3300,0,'St Charles',1,7200,0,'St Charles',1,3000,0,'St Charles',1,7000,0,'St Charles',1,7100,0,'St Charles',1,3000,0,'St Charles',1,7100,0,'St Charles',1,3000,0,'St Charles',1,7100,0,'St Charles',1,3000,0,'St Charles',1,7100,0,'St Charles',1,3000,0,'St Charles',1,6700,0,'St Charles',1,2800,0,'St Charles',1,2900,0,'St Charles',1,7000,0,'St Charles',1,2900,0,'St Charles',1,7100,0,'St Charles',1,7500,0,'St Charles',1
-'1merged62061',2200,160220,0,'St Charles',1,2100,0,'St Charles',1,2000,0,'St Charles',1,5710,0,'St Charles',1,1900,0,'St Charles',1,1510,0,'St Charles',1,1900,0,'St Charles',1,6200,0,'St Charles',1,2300,0,'St Charles',1
+'1',1100,215100,0,'St Charles',1,8400,0,'St Charles',1,8200,0,'St Charles',1,8300,0,'St Charles',1,3700,0,'St Charles',1,8000,0,'St Charles',1,4000,0,'St Charles',1
+'2',1100,215200,0,'St Charles',1,8200,0,'St Charles',1,8300,0,'St Charles',1,8300,0,'St Charles',1,3700,0,'St Charles',1,8000,0,'St Charles',1,4000,0,'St Charles',1
+'3',1100,65900,0,'St Charles',1,8200,0,'St Charles',1,8500,0,'St Charles',1,8400,0,'St Charles',1,4600,0,'St Charles',1,8600,0,'St Charles',1,8700,0,'St Charles',1,8700,0,'St Charles',1,8800,0,'St Charles',1,4800,0,'St Charles',1,8800,0,'St Charles',1,8800,0,'St Charles',1,8900,0,'St Charles',1,8900,0,'St Charles',1,4800,0,'St Charles',1,8700,0,'St Charles',1,8600,0,'St Charles',1,8500,0,'St Charles',1,4500,0,'St Charles',1,8500,0,'St Charles',1,8300,0,'St Charles',1,8200,0,'St Charles',1,4300,0,'St Charles',1,8200,0,'St Charles',1
+'1',2100,54030,0,'St Charles',1,6000,0,'St Charles',1,2700,0,'St Charles',1,3200,0,'St Charles',1,6300,0,'St Charles',1,2900,0,'St Charles',1,6600,0,'St Charles',1,3000,0,'St Charles',1,7200,0,'St Charles',1,3300,0,'St Charles',1,7400,0,'St Charles',1,3300,0,'St Charles',1,7400,0,'St Charles',1,7500,0,'St Charles',1,3500,0,'St Charles',1,7300,0,'St Charles',1,3500,0,'St Charles',1,7500,0,'St Charles',1,7400,0,'St Charles',1,3600,0,'St Charles',1,37000,0,'St Charles',1,3500,0,'St Charles',1,6900,0,'St Charles',1,3000,0,'St Charles',1,6700,0,'St Charles',1
+'2',2100,55230,0,'St Charles',1,8400,0,'St Charles',1,8000,0,'St Charles',1,3400,0,'St Charles',1,8900,0,'St Charles',1,7700,0,'St Charles',1,3200,0,'St Charles',1,7100,0,'St Charles',1,3200,0,'St Charles',1,7300,0,'St Charles',1,3300,0,'St Charles',1,7200,0,'St Charles',1,3000,0,'St Charles',1,7000,0,'St Charles',1,7100,0,'St Charles',1,3000,0,'St Charles',1,7100,0,'St Charles',1,3000,0,'St Charles',1,7100,0,'St Charles',1,3000,0,'St Charles',1,7100,0,'St Charles',1,3000,0,'St Charles',1,6700,0,'St Charles',1,2800,0,'St Charles',1,2900,0,'St Charles',1,7000,0,'St Charles',1,2900,0,'St Charles',1,7100,0,'St Charles',1,7500,0,'St Charles',1
+'1',2200,160220,0,'St Charles',1,2100,0,'St Charles',1,2000,0,'St Charles',1,5710,0,'St Charles',1,1800,0,'St Charles',1,1610,0,'St Charles',1,1900,0,'St Charles',1,6200,0,'St Charles',1,2300,0,'St Charles',1

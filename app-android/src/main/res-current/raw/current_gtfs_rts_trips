@@ -138,16 +138,20 @@
 9701,0,'Pt Douglas',97
 9801,0,'Grace Hosp',98
 9800,0,'Unicity',98
+33001,0,'Gdn City Ctr',330
+33000,0,'Riverbend & Main',330
+33400,0,'Castlebury Mdws',334
+33401,0,'Gdn City Ctr',334
 63501,0,'Harkness Sta',635
 63500,0,'Misericordia Health Ctr',635
 64101,0,'Beaumont Sta',641
 64100,0,'Kenaston',641
 64200,0,'Fort Garry Ind Pk',642
 64201,0,'Seel Sta',642
-64900,0,'Whyte Rdg',649
-64901,0,'Windermere',649
+64900,0,'Fort Whyte Alive',649
+64901,0,'Seel Sta',649
+65000,0,'Fort Whyte Alive',650
 65001,0,'Seel Sta',650
-65000,0,'Whyte Rdg',650
 66201,0,'Markham Sta',662
 66200,0,'U Of Manitoba',662
 67100,0,'Prairie Pte',671
