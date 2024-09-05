@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.Locale;
 import java.util.regex.Pattern;
 
-// http://winnipegtransit.com/en/schedules-maps-tools/transittools/open-data/
+// https://api.winnipegtransit.com/
 public class WinnipegTransitBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
