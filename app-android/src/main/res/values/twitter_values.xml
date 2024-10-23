@@ -8,6 +8,10 @@
         <item>winnipegtransit</item>
         <item>transitalerts</item>
     </string-array>
+    <string-array name="twitter_screen_names_id">
+        <item>87219242</item>
+        <item>87220241</item>
+    </string-array>
     <string-array name="twitter_screen_names_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
         <item>@string/news_provider_language_unknown_show_all</item>
