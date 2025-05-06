@@ -6,11 +6,13 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
+import org.mtransit.commons.Letters;
 import org.mtransit.commons.provider.WinnipegTransitProviderCommons;
 import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.gtfs.data.GRoute;
 import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.mt.data.MAgency;
+import org.mtransit.parser.mt.data.MRouteSNToIDConverter;
 
 import java.util.List;
 import java.util.Locale;
@@ -27,11 +29,6 @@ public class WinnipegTransitBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public List<Locale> getSupportedLanguages() {
 		return LANG_EN;
-	}
-
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
 	}
 
 	@NotNull
@@ -66,6 +63,15 @@ public class WinnipegTransitBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public String cleanRouteShortName(@NotNull String routeShortName) {
 		return super.cleanRouteShortName(routeShortName); // used for Real-Time API
+	}
+
+	@Override
+	public @Nullable Long convertRouteIdPreviousChars(@NotNull String previousChars) {
+		switch (previousChars) {
+		case "FX":
+			return (Letters.F * 100L + Letters.X) * MRouteSNToIDConverter.PREVIOUS;
+		}
+		return super.convertRouteIdPreviousChars(previousChars);
 	}
 
 	@Nullable
@@ -139,7 +145,7 @@ public class WinnipegTransitBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String stopId = gStop.getStopId();
 		if (!CharUtils.isDigitsOnly(stopId)) {
 			return Integer.parseInt(gStop.getStopCode()); // use stop code as stop ID
