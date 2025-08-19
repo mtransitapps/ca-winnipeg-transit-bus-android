@@ -1,0 +1,71 @@
+22,'22','Portage','052465',1600,3
+28,'28','Arlington - Stafford','052465',1606,3
+31,'31','Waterfront - N Main','052465',1630,3
+37,'37','Jefferson','052465',1636,3
+38,'38','Mtn - Munroe','052465',1637,3
+39,'39','Inkster','052465',1638,3
+43,'43','Watt - Logan','052465',1663,3
+48,'48','Transcona Blvd - McMeans','052465',1668,3
+70,'70','Roblin','052465',1753,3
+74,'74','Kenaston - Keewatin','052465',1757,3
+91,'91','St Norbert','B3B3B3',1816,3
+220,'220','Crestview - Westwood','B3B3B3',49648,3
+223,'223','Charleswood - Cavalier','B3B3B3',49651,3
+224,'224','Sherwin - Valour','B3B3B3',49652,3
+330,'330','Murray - Grey','B3B3B3',50640,3
+332,'332','Amber Trails - Church','B3B3B3',50642,3
+334,'334','Watson - Dr Jose Rizal','B3B3B3',50644,3
+336,'336','Templeton - Tyndall Pk','B3B3B3',50646,3
+440,'440','Rougeau - Plessis','B3B3B3',51632,3
+442,'442','Concordia - N Kildonan','B3B3B3',51634,3
+444,'444','Devonshire - Redonda','B3B3B3',51636,3
+446,'446','Peguis - Donwood','B3B3B3',51638,3
+551,'551','Watt - Windsor Pk','B3B3B3',52625,3
+552,'552','Aldgate - Meadowood','B3B3B3',52626,3
+556,'556','Beliveau','B3B3B3',52630,3
+557,'557','Isl Lks - Morley','B3B3B3',52631,3
+558,'558','Southglen - Cottonwood','B3B3B3',52632,3
+641,'641','Lindenwoods W','B3B3B3',53555,3
+642,'642','Lindenwoods E','B3B3B3',53556,3
+649,'649','Chevrier','B3B3B3',53563,3
+650,'650','McGillivray','B3B3B3',53585,3
+662,'662','Richmond','B3B3B3',53618,3
+664,'664','Taylor - W Taylor','B3B3B3',53620,3
+671,'671','Dalhousie','B3B3B3',53648,3
+672,'672','Killarney','B3B3B3',53649,3
+676,'676','N Town - Burland','B3B3B3',53653,3
+677,'677','Wilkes','B3B3B3',53654,3
+678,'678','Waverley W - Chancellor','B3B3B3',53655,3
+679,'679','Waverley','B3B3B3',53656,3
+680,'680','River Hts - Cambridge','B3B3B3',53678,3
+690,'690','Ind','B3A897',53709,3
+691,'691','Whyte Rdg','B3A897',53710,3
+694,'694','Wildwood','B3A897',53713,3
+833,'833','Burrows','B3A897',55448,3
+881,'881','Brookside','B3A897',55601,3
+883,'883','Murray Pk','B3A897',55603,3
+884,'884','Keewatin','B3A897',55604,3
+885,'885','Rannock - Westwood','B3A897',55605,3
+886,'886','Dugald','B3A897',55606,3
+887,'887','Dugald','B3A897',55607,3
+888,'888','Tache','B3A897',55608,3
+889,'889','Sherbrook Express - Pembina Express','B3A897',55609,3
+895,'895','Morley','B3A897',55636,3
+22222,'BLUE','St Norbert <> Unicity Shopping Ctr','0064B1',2041946,3
+4000010,'D10','Panet - Adsum','026C7E',66915,3
+4000011,'D11','Salter - Stafford','026C7E',66916,3
+4000012,'D12','Ellice','026C7E',66917,3
+4000013,'D13','Sargent','026C7E',66918,3
+4000014,'D14','Dugald - Broadway','026C7E',66919,3
+4000015,'D15','Archibald - Ness','026C7E',66920,3
+4000016,'D16','Academy - Notre Dame','026C7E',66921,3
+4000017,'D17','Talbot - Selkirk','026C7E',66922,3
+4000019,'D19','Corydon','026C7E',66924,3
+6000005,'F5','McPhillips - Donald','00B262',2223,3
+6000006,'F6','McGregor - Osborne','00B262',2224,3
+6000007,'F7','St Anne''s - Provencher','00B262',2225,3
+6000008,'F8','Henderson - Pembina','00B262',2226,3
+6000009,'F9','Lagimodiere - Abinojii Mikanah','00B262',2227,3
+624000002,'FX2','Main - St Mary''s','F37043',70048,3
+624000003,'FX3','Regent - Grant','F27EA6',70049,3
+624000004,'FX4','Gateway - Portage','6450A1',70050,3
