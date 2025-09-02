@@ -1,7 +1,7 @@
 2200,0,'Polo Pk',22
 2201,0,'Unicity',22
-2800,0,'Gdn City Ctr',28
 2801,0,'Seel Sta',28
+2800,0,'Templeton Walmart',28
 3100,0,'Riverbend',31
 3101,0,'The Forks',31
 3700,0,'Cathedral & Main',37
@@ -26,14 +26,14 @@
 22301,0,'Westdale',223
 22401,0,'RRC Polytech',224
 22400,0,'Tecumseh Loop',224
-33001,0,'Gdn City Hub',330
 33000,0,'Levis & Nairn',330
+33001,0,'Templeton Walmart',330
 33200,0,'Gdn City Hub',332
 33201,0,'Selkirk & McPhillips',332
 33400,0,'Gdn City Hub',334
 33401,0,'Waterford Grn',334
 33601,0,'Fife Loop',336
-33600,0,'Gdn City Hub',336
+33600,0,'Templeton Walmart',336
 44001,0,'Crossroads Sta',440
 44000,0,'Lakeside Mdws',440
 44201,0,'Kildonan Pl Hub',442
