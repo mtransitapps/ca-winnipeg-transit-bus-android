@@ -12,7 +12,7 @@
 3901,0,'Waterford Grn',39
 4300,0,'Gateway',43
 4301,0,'RRC Polytech',43
-4801,0,'Kildonan Pl',48
+4801,0,'Crossroads Sta',48
 4800,0,'Redonda & Pandora',48
 7000,0,'Polo Pk',70
 7001,0,'Unicity',70
@@ -72,10 +72,10 @@
 67600,0,'Crk Bend',676
 67700,0,'Beaumont Sta',677
 67701,0,'Outlet Mall',677
-67800,0,'Markham Sta',678
+67800,0,'Freedman Term',678
 67801,0,'S Pte',678
+67901,0,'Freedman Term',679
 67900,0,'Seel Sta',679
-67901,0,'U Of Manitoba',679
 68000,0,'Polo Pk Hub',680
 68001,0,'Seel Sta',680
 69001,0,'Kenaston',690
@@ -140,5 +140,5 @@
 62400000201,0,'St Vital Ctr',624000002
 62400000300,0,'Redonda & Pandora',624000003
 62400000301,0,'Sturgeon & Murray Pk',624000003
-62400000401,0,'Polo Pk',624000004
+62400000401,0,'Polo Pk Hub',624000004
 62400000400,0,'Raleigh & Knowles',624000004
